@@ -3,44 +3,44 @@
 <h1>//Profile</h1>
 <xmp>
   struct Profile {
-      let summary = "My name is Mattia Cantalù and I come from Italy.
-                    I attended the University of Modena \"E. Ferrari\"​, where I conferred a degree in Computer Engineering.
-                    In 2011, I also studied at the University of Pisa, where I received a certificate as Apple iOS Developer.
-                    I'm a iOS Developer at YOOX NET-A-PORTER Group, the global Internet retailing partner for leading fashion and luxury brands.
-                    As a freelancer Apple iOS Developer, I've developed some personal, enterprise and commercial applications.
-                    During my leasure time, I love travel all over the world. I've visited many cities but my favorites are NYC and London.
-                    I consider myself an Apple addicted, MINI inside and a LEGO fan.
-                    I speak Italian (mother-language) and English."
+      static let summary = "My name is Mattia Cantalù and I come from Italy.
+          I attended the University of Modena \"E. Ferrari\"​, where I conferred a degree in Computer Engineering.
+          In 2011, I also studied at the University of Pisa, where I received a certificate as Apple iOS Developer.
+          I'm a iOS Developer at YOOX NET-A-PORTER Group, the global Internet retailing partner for leading fashion and luxury brands.
+          As a freelancer Apple iOS Developer, I've developed some personal, enterprise and commercial applications.
+          During my leasure time, I love travel all over the world. I've visited many cities but my favorites are NYC and London.
+          I consider myself an Apple addicted, MINI inside and a LEGO fan.
+          I speak Italian (mother-language) and English."
 
-      let name = "Mattia Cantalù"
+      static let name = "Mattia Cantalu'"
 
-      let location = CLLocation(latitude: 44.4796, longitude: 11.0375)
+      static let location = CLLocation(latitude: 44.4796, longitude: 11.0375)
 
-      let work = "iOS Developer @ YOOX NET-A-PORTER GROUP"
+      static let work = "iOS Developer @ YOOX NET-A-PORTER GROUP"
 
-      let education = "Computer Engeneering @ University of Modena and Reggio Emilia"
+      static let education = "Computer Engeneering @ University of Modena and Reggio Emilia"
 
-      let languages = ["Italian", "English"]
+      static let language = ["native": "Italian", "professional": "English"]
 
-      let hobbies = ["technology", "travel", "apple", "lego", "mini"]
+      static let hobbies = ["technology", "travel", "apple", "lego", "mini"]
 
-      let skills = ["Swift", "Objective-C", "Mobile Application", "iOS", "iOS Development", "Mobile Devices", "macOS",  "Cocoa", "Xcode"]
+      static let skills = ["Swift", "Objective-C", "Mobile Application", "iOS", "iOS Development", "Mobile Devices", "macOS",  "Cocoa", "Xcode"]
   }
 
   extension Profile {
-      func twitter() -> URL? {
+      static func twitter() -> URL? {
           return URL(string: "https://www.twitter.com/mattiacantalu")
       }
 
-      func linkedin() -> URL? {
+      static func linkedin() -> URL? {
           return URL(string: "https://www.linkedin.com/in/mattiacantalu/")
       }
 
-      func github() -> URL? {
+      static func github() -> URL? {
           return URL(string: "https://github.com/mattiacantalu")
       }
 
-      func mail() -> URL? {
+      static func mail() -> URL? {
           return URL(string: "mailto:mattiacantalu@me.com")
       }
   }
