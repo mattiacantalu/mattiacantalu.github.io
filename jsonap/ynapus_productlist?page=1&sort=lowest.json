@@ -1,0 +1,3163 @@
+{
+	"Chips": [{
+		"Label": "M",
+		"IsSelected": false,
+		"Attributes": {
+			"tgl": ["4"]
+		}
+	}, {
+		"Label": "L",
+		"IsSelected": false,
+		"Attributes": {
+			"tgl": ["5"]
+		}
+	}, {
+		"Label": "Black",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["7"]
+		}
+	}, {
+		"Label": "S",
+		"IsSelected": false,
+		"Attributes": {
+			"tgl": ["3"]
+		}
+	}, {
+		"Label": "Coats & Jackets",
+		"IsSelected": false,
+		"Attributes": {
+			"ctgr": ["cpspll"]
+		}
+	}, {
+		"Label": "Silver",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["28"]
+		}
+	}, {
+		"Label": "Gold",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["29"]
+		}
+	}, {
+		"Label": "BOTTEGA VENETA",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["664"]
+		}
+	}, {
+		"Label": "VERSACE",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["1889"]
+		}
+	}, {
+		"Label": "Cotton",
+		"IsSelected": false,
+		"Attributes": {
+			"mtrl": ["ctn"]
+		}
+	}, {
+		"Label": "MAISON MARGIELA",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["50"]
+		}
+	}, {
+		"Label": "AMBUSH",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["21953"]
+		}
+	}, {
+		"Label": "DOLCE & GABBANA",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["25"]
+		}
+	}, {
+		"Label": "Green",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["22"]
+		}
+	}, {
+		"Label": "Blue",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["18"]
+		}
+	}, {
+		"Label": "Accessories",
+		"IsSelected": false,
+		"Attributes": {
+			"ctgr": ["ccssr"]
+		}
+	}, {
+		"Label": "Cashmere",
+		"IsSelected": false,
+		"Attributes": {
+			"mtrl": ["cshmr"]
+		}
+	}, {
+		"Label": "Belts",
+		"IsSelected": false,
+		"Attributes": {
+			"ctgr": ["cntr2"]
+		}
+	}, {
+		"Label": "Animal print",
+		"IsSelected": false,
+		"Attributes": {
+			"pttrn1": ["nmlpttrn"]
+		}
+	}, {
+		"Label": "Checks",
+		"IsSelected": false,
+		"Attributes": {
+			"pttrn1": ["chckddsg"]
+		}
+	}, {
+		"Label": "Crystals",
+		"IsSelected": false,
+		"Attributes": {
+			"mtrl": ["crstll"]
+		}
+	}, {
+		"Label": "Eyewear",
+		"IsSelected": false,
+		"Attributes": {
+			"ctgr": ["cchl"]
+		}
+	}, {
+		"Label": "Camouflage",
+		"IsSelected": false,
+		"Attributes": {
+			"pttrn1": ["cmflgdsg"]
+		}
+	}, {
+		"Label": "Ceramic",
+		"IsSelected": false,
+		"Attributes": {
+			"mtrl": ["crmc1"]
+		}
+	}],
+	"SearchResultTitle": "MEN",
+	"Links": [{
+		"HRef": "",
+		"Rel": "related",
+		"Title": "top-banner",
+		"Templated": false,
+		"Type": "",
+		"Attributes": {
+			"ImageUrl": "",
+			"Title": "YOOX GALA",
+			"Subtitle": null,
+			"CallToAction": "",
+			"BannerSlotImgWidth": "1",
+			"BannerSlotImgHeight": "1",
+			"BackgroundColor": "ffde38",
+			"ForegroundColor": "333333",
+			"Local": "",
+			"BannerSlot": "BNR_TOP_NATIVA",
+			"BannerPage": "mmrc_2205yxgl"
+		}
+	}],
+	"TrackingInfo": {
+		"ScreenName": "men - mmrc_2205yxgl",
+		"PageCat1": "mmrc_2205yxgl",
+		"PageCat2": "",
+		"SearchKeywords": ""
+	},
+	"BannerItems": [],
+	"Refinements": {
+		"Filters": {
+			"Prices": {
+				"StepRanges": [{
+					"Min": 20,
+					"Max": 500,
+					"Step": 50
+				}, {
+					"Min": 500,
+					"Max": 2500,
+					"Step": 250
+				}, {
+					"Min": 2500,
+					"Max": 6320,
+					"Step": 500
+				}],
+				"Min": 20,
+				"Max": 6320,
+				"PriceMin": 20,
+				"PriceMax": 6320,
+				"Step": 50
+			},
+			"HasMySizes": true,
+			"Attributes": [{
+				"Refinements": [],
+				"Code": "ctgr",
+				"IsSelected": false,
+				"Type": "ctgr",
+				"Attributes": [{
+					"Code": "ccssr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "cppll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Hats"
+					}, {
+						"Code": "scrp",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Scarves and foulards"
+					}, {
+						"Code": "sttnry",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Stationery and Pens"
+					}, {
+						"Code": "crvtt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Ties and bow ties"
+					}],
+					"Value": "Accessories"
+				}, {
+					"Code": "cntr2",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "cntrntss",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Fabric belts"
+					}, {
+						"Code": "cntrnpll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Leather belts"
+					}],
+					"Value": "Belts"
+				}, {
+					"Code": "cpspll",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "bkr1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Biker jackets"
+					}, {
+						"Code": "gcc",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Blazers"
+					}, {
+						"Code": "bmbr1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Bombers"
+					}, {
+						"Code": "cpptt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Coats"
+					}, {
+						"Code": "gbbttjns",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Denim jackets"
+					}, {
+						"Code": "cbn1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Double breasted pea coat"
+					}, {
+						"Code": "sprbt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Full-length jackets"
+					}, {
+						"Code": "gbbtt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Jackets"
+					}, {
+						"Code": "gbbttpll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Leather jackets"
+					}, {
+						"Code": "prk1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Parkas"
+					}, {
+						"Code": "pmn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Shell  jackets"
+					}, {
+						"Code": "pmnsnttc",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Synthetic padding"
+					}, {
+						"Code": "trnch1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Trench coats"
+					}],
+					"Value": "Coats & Jackets"
+				}, {
+					"Code": "cchl",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "cchldsl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sunglasses"
+					}],
+					"Value": "Eyewear"
+				}, {
+					"Code": "clztr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "stvlttmn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Boots"
+					}, {
+						"Code": "chlbts",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Chelsea boots"
+					}, {
+						"Code": "nfb4",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Combat boots"
+					}, {
+						"Code": "nfrdt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Flip flops"
+					}, {
+						"Code": "strngt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Laced shoes"
+					}, {
+						"Code": "mcssn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Loafers"
+					}, {
+						"Code": "ml",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Mules and clogs"
+					}, {
+						"Code": "sndl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sandals"
+					}, {
+						"Code": "pntfl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Slides and slippers"
+					}, {
+						"Code": "snkrs5",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sneakers"
+					}],
+					"Value": "Footwear"
+				}, {
+					"Code": "brs",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "znmrsp",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Backpacks & fanny packs"
+					}, {
+						"Code": "brstrcll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cross-body bags"
+					}, {
+						"Code": "brsmn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Handbags"
+					}, {
+						"Code": "brsspll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Shoulder bags"
+					}, {
+						"Code": "brsdlvr",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Work bags"
+					}],
+					"Value": "Handbags"
+				}, {
+					"Code": "cmplmntr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "pttdcrtv",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Decorative plates"
+					}, {
+						"Code": "spcch",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Mirrors"
+					}, {
+						"Code": "ggttstc",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Small objects for Home"
+					}, {
+						"Code": "vs",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Vases"
+					}],
+					"Value": "Home accessories"
+				}, {
+					"Code": "jns",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "pntlnjns",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Denim pants"
+					}, {
+						"Code": "shrtsjns",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Denim shorts"
+					}],
+					"Value": "Jeans and Denim"
+				}, {
+					"Code": "gll",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "brccl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Bracelets"
+					}, {
+						"Code": "spll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Brooches"
+					}, {
+						"Code": "gmll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cufflinks and Tie Clips"
+					}, {
+						"Code": "rcchn1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Ear cuff or single earring"
+					}, {
+						"Code": "rcchn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Earrings"
+					}, {
+						"Code": "clln",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Necklaces"
+					}, {
+						"Code": "cndl1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Pendants"
+					}, {
+						"Code": "nll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Rings"
+					}, {
+						"Code": "rlgdpls1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Wrist watches"
+					}],
+					"Value": "Jewelry"
+				}, {
+					"Code": "vlgr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "brsn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Travel & duffel bag"
+					}],
+					"Value": "Luggage"
+				}, {
+					"Code": "pntln",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "tsch2",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "5-pocket"
+					}, {
+						"Code": "crg1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cargo"
+					}, {
+						"Code": "pntln1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Casual pants"
+					}, {
+						"Code": "chns1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Chinos"
+					}, {
+						"Code": "pntlncls",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Dress pants"
+					}, {
+						"Code": "shrts",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Shorts & Bermuda"
+					}, {
+						"Code": "pntlnflp",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sweatpants"
+					}],
+					"Value": "Pants"
+				}, {
+					"Code": "cmc",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "cmcqdr",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Checked shirts"
+					}, {
+						"Code": "cmcfntsm",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Patterned shirts"
+					}, {
+						"Code": "cmctntnt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Solid color shirts"
+					}],
+					"Value": "Shirts"
+				}, {
+					"Code": "pcclpllt",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "prtdcmnt1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Document holders"
+					}, {
+						"Code": "prtchv1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Key rings"
+					}, {
+						"Code": "prtfgl1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Wallets"
+					}],
+					"Value": "Small Leather Goods"
+				}, {
+					"Code": "bt",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "gcc2",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Blazers"
+					}, {
+						"Code": "bt1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Suit"
+					}, {
+						"Code": "glt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Suit vests"
+					}],
+					"Value": "Suits and Blazers"
+				}, {
+					"Code": "mglr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "crdgn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cardigans"
+					}, {
+						"Code": "mglncchm",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cashmere blends"
+					}, {
+						"Code": "flpcncpp2",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Hooded sweatshirts"
+					}, {
+						"Code": "pllvr",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sweaters"
+					}, {
+						"Code": "flp1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sweatshirts"
+					}, {
+						"Code": "dlcvt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Turtlenecks"
+					}],
+					"Value": "Sweaters and Sweatshirts"
+				}, {
+					"Code": "tpwr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "pl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Polo shirts"
+					}, {
+						"Code": "cntt2",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Tank tops"
+					}, {
+						"Code": "tshrt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "T-shirts"
+					}],
+					"Value": "T-Shirts and Tops"
+				}, {
+					"Code": "ntmmn",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "pgmmn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sleepwear"
+					}],
+					"Value": "Underwear"
+				}, {
+					"Code": "rlg",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "rlgdpls",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Wrist watches"
+					}],
+					"Value": "Watches"
+				}],
+				"Value": "Categories"
+			}, {
+				"Code": "dsgnrs",
+				"IsSelected": false,
+				"Type": "dsgnrs",
+				"Attributes": [{
+					"Code": "285",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ALEXANDER MCQUEEN"
+				}, {
+					"Code": "50258",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ALIGHIERI x YOOX"
+				}, {
+					"Code": "21953",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "AMBUSH"
+				}, {
+					"Code": "221",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BALENCIAGA"
+				}, {
+					"Code": "1035",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BIKKEMBERGS"
+				}, {
+					"Code": "664",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BOTTEGA VENETA"
+				}, {
+					"Code": "942",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BRUNELLO CUCINELLI"
+				}, {
+					"Code": "28997",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BURBERRY"
+				}, {
+					"Code": "210",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "CELINE"
+				}, {
+					"Code": "17",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "COMME des GARÇONS"
+				}, {
+					"Code": "125",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DIESEL"
+				}, {
+					"Code": "25",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DOLCE & GABBANA"
+				}, {
+					"Code": "28",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DRIES VAN NOTEN"
+				}, {
+					"Code": "14167",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DRKSHDW by RICK OWENS"
+				}, {
+					"Code": "378",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DSQUARED2"
+				}, {
+					"Code": "12646",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "EMANUELE BICOCCHI"
+				}, {
+					"Code": "128",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "EMPORIO ARMANI"
+				}, {
+					"Code": "773",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ERMENEGILDO ZEGNA"
+				}, {
+					"Code": "30",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ETRO"
+				}, {
+					"Code": "20669",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "FIRST PEOPLE FIRST"
+				}, {
+					"Code": "9690",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "FORNASETTI"
+				}, {
+					"Code": "23212",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GCDS"
+				}, {
+					"Code": "36105",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GHIDINI 1961"
+				}, {
+					"Code": "3117",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GIUSEPPE ZANOTTI"
+				}, {
+					"Code": "792",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GIVENCHY"
+				}, {
+					"Code": "42",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GUCCI"
+				}, {
+					"Code": "539",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ISAIA"
+				}, {
+					"Code": "374",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "JUNYA WATANABE"
+				}, {
+					"Code": "390",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "JUST CAVALLI"
+				}, {
+					"Code": "1293",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "KARL LAGERFELD"
+				}, {
+					"Code": "1305",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "KITON"
+				}, {
+					"Code": "50",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MAISON MARGIELA"
+				}, {
+					"Code": "3796",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MAURO GRIFONI"
+				}, {
+					"Code": "6621",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MEMPHIS MILANO"
+				}, {
+					"Code": "403",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MICHAEL KORS"
+				}, {
+					"Code": "12821",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MONTBLANC"
+				}, {
+					"Code": "9311",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "NORMANN COPENHAGEN"
+				}, {
+					"Code": "41737",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "NOVE25"
+				}, {
+					"Code": "6759",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "PHILIPP PLEIN"
+				}, {
+					"Code": "63",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "PRADA"
+				}, {
+					"Code": "1316",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "RICK OWENS"
+				}, {
+					"Code": "24494",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "SAINT LAURENT"
+				}, {
+					"Code": "10781",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "SELETTI"
+				}, {
+					"Code": "83",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "TOD'S"
+				}, {
+					"Code": "7674",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "TOM FORD"
+				}, {
+					"Code": "1133",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "VALENTINO GARAVANI"
+				}, {
+					"Code": "1889",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "VERSACE"
+				}, {
+					"Code": "42641",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "8 by YOOX"
+				}],
+				"Value": "Designers"
+			}, {
+				"Code": "przz",
+				"IsSelected": false,
+				"Type": "PriceSlider",
+				"Attributes": [{
+					"IsSelected": false,
+					"Attributes": []
+				}],
+				"Value": "Price range"
+			}, {
+				"DepartmentType": "normal",
+				"HasMySizes": true,
+				"Code": "tgl",
+				"IsSelected": false,
+				"Type": "tgl",
+				"Attributes": [{
+					"HasMySizes": false,
+					"Code": "1",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XXS"
+				}, {
+					"HasMySizes": false,
+					"Code": "2",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XS"
+				}, {
+					"HasMySizes": false,
+					"Code": "3",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "S"
+				}, {
+					"HasMySizes": false,
+					"Code": "4",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "M"
+				}, {
+					"HasMySizes": false,
+					"Code": "5",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "L"
+				}, {
+					"HasMySizes": false,
+					"Code": "6",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XL"
+				}, {
+					"HasMySizes": false,
+					"Code": "7",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XXL"
+				}, {
+					"HasMySizes": false,
+					"Code": "8",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XXXL"
+				}],
+				"Value": "Sizes"
+			}, {
+				"Code": "clr",
+				"IsSelected": false,
+				"Type": "Color",
+				"Attributes": [{
+					"RGB": "4872BA",
+					"Code": "35",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Azure"
+				}, {
+					"RGB": "CDBD9A",
+					"Code": "32",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Beige"
+				}, {
+					"RGB": "000000",
+					"Code": "7",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Black"
+				}, {
+					"RGB": "214377",
+					"Code": "18",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Blue"
+				}, {
+					"RGB": "836D5C",
+					"Code": "37",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Brown"
+				}, {
+					"RGB": "988F60",
+					"Code": "29",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Gold"
+				}, {
+					"RGB": "3C941F",
+					"Code": "22",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Green"
+				}, {
+					"RGB": "8B949C",
+					"Code": "25",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Grey"
+				}, {
+					"RGB": "DF4E29",
+					"Code": "9",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Orange"
+				}, {
+					"RGB": "E5A2B5",
+					"Code": "12",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Pink"
+				}, {
+					"RGB": "693883",
+					"Code": "14",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Purple"
+				}, {
+					"RGB": "A40000",
+					"Code": "11",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Red"
+				}, {
+					"RGB": "ABB2BA",
+					"Code": "28",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Silver"
+				}, {
+					"RGB": "ffffff",
+					"Code": "8",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Transparent"
+				}, {
+					"RGB": "FFFFFF",
+					"Code": "6",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "White"
+				}, {
+					"RGB": "EBD832",
+					"Code": "10",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Yellow"
+				}],
+				"Value": "Colors"
+			}, {
+				"Code": "pttrn1",
+				"IsSelected": false,
+				"Type": "pttrn1",
+				"Attributes": [{
+					"Code": "nmlpttrn",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Animal print"
+				}, {
+					"Code": "cmflgdsg",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Camouflage"
+				}, {
+					"Code": "chckddsg",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Checks"
+				}, {
+					"Code": "flrldsgn",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Floral"
+				}, {
+					"Code": "sldclr",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "One color"
+				}, {
+					"Code": "thrpttrn",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Other pattern"
+				}, {
+					"Code": "pnstrpd",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Pinstripe"
+				}, {
+					"Code": "plkdts",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Polka dot"
+				}, {
+					"Code": "strps",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Stripes"
+				}],
+				"Value": "Print"
+			}, {
+				"Code": "mtrl",
+				"IsSelected": false,
+				"Type": "mtrl",
+				"Attributes": [{
+					"Code": "cshmr",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Cashmere"
+				}, {
+					"Code": "crmc1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Ceramic"
+				}, {
+					"Code": "ctn",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Cotton"
+				}, {
+					"Code": "crstll",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Crystals"
+				}, {
+					"Code": "ptr",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Gems"
+				}, {
+					"Code": "vtr1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Glass"
+				}, {
+					"Code": "r1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Gold"
+				}, {
+					"Code": "lthr",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Leather"
+				}, {
+					"Code": "ln",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Linen"
+				}, {
+					"Code": "mtllptr",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Metals"
+				}, {
+					"Code": "plstc1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Plastic"
+				}, {
+					"Code": "prclln1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Porcelain"
+				}, {
+					"Code": "mtrlrccl",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Recycled Materials"
+				}, {
+					"Code": "st",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Silk"
+				}, {
+					"Code": "rgnt1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Silver"
+				}, {
+					"Code": "ln1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Wool"
+				}],
+				"Value": "Materials"
+			}, {
+				"Code": "nvgpr",
+				"IsSelected": false,
+				"Type": "nvgpr",
+				"Attributes": [{
+					"Code": "merch_accessori",
+					"IsSelected": false,
+					"Type": "nvgpr",
+					"Attributes": [],
+					"Value": "ACCESSORIES"
+				}, {
+					"Code": "merch_abbigliamento",
+					"IsSelected": false,
+					"Type": "nvgpr",
+					"Attributes": [],
+					"Value": "CLOTHING"
+				}, {
+					"Code": "merch_scarpe",
+					"IsSelected": false,
+					"Type": "nvgpr",
+					"Attributes": [],
+					"Value": "SHOES"
+				}],
+				"Value": "SHOP BY CATEGORY"
+			}]
+		},
+		"BreadCrumbs": {
+			"IsAddToPremiereEnabled": false,
+			"PremiereDisabledLabel": "premiereCategoryDesigner_alert",
+			"Breadcrumbs": []
+		},
+		"MoreBrands": {}
+	},
+	"Items": [{
+		"Cod10": "50272868RB",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Author": "",
+		"MicroCategoryCode": "nll",
+		"MicroCategory": "Ring",
+		"MicroCategoryPlural": "Rings",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 27,
+		"DiscountedPrice": 27,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "4.5"
+		}, {
+			"Text": "5.25"
+		}, {
+			"Text": "5.75"
+		}, {
+			"Text": "6.5"
+		}],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "50272868RB",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_d", "10_f", "11_d", "11_f", "12_d", "12_f", "13_d", "13_f", "14_d", "14_f", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "3", "7", "8_d", "8_f", "9_d", "9_f", "det"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 27.00",
+		"FormattedDiscountedPrice": "$ 27.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 25,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50269891QK",
+		"Brand": "DSQUARED2",
+		"BrandId": 378,
+		"Author": "",
+		"MicroCategoryCode": "gmll",
+		"MicroCategory": "Cufflinks and Tie Clips",
+		"MicroCategoryPlural": "Cufflinks and Tie Clips",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 50,
+		"DiscountedPrice": 29,
+		"DiscountedPercentage": 42,
+		"FormattedDiscountedPercentage": "42% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "50269891QK",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 50.00",
+		"FormattedDiscountedPrice": "$ 29.00",
+		"DiscountedPriceEur": 27,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "58037521VE",
+		"Brand": "NORMANN COPENHAGEN",
+		"BrandId": 9311,
+		"Author": "",
+		"MicroCategoryCode": "ggttstc",
+		"MicroCategory": "Small object for Home",
+		"MicroCategoryPlural": "Small objects for Home",
+		"MacroCategoryCode": "cmplmntr",
+		"MacroCategory": "Home accessories",
+		"MacroCategoryPlural": "Home accessories",
+		"FullPrice": 32,
+		"DiscountedPrice": 32,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "58037521VE",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "406",
+		"FormattedFullPrice": "$ 32.00",
+		"FormattedDiscountedPrice": "$ 32.00",
+		"DiscountedPriceEur": 30,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["DESIGN"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50244018MW",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Title": "SMALL BARBED WIRE",
+		"Author": "",
+		"MicroCategoryCode": "rcchn1",
+		"MicroCategory": "Ear cuff or single earring",
+		"MicroCategoryPlural": "Ear cuff or single earring",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 35,
+		"DiscountedPrice": 35,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50244018MW",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_a", "10_d", "10_e", "10_f", "10_r", "11_a", "11_d", "11_e", "11_f", "11_r", "12_a", "12_d", "12_e", "12_f", "12_r", "13_a", "13_d", "13_e", "13_f", "13_r", "14_a", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_e", "8_f", "8_r", "9_a", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "36",
+		"FormattedFullPrice": "$ 35.00",
+		"FormattedDiscountedPrice": "$ 35.00",
+		"DiscountedPriceEur": 33,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50253211SW",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Title": "BLACK ENAMEL DOTTED LOBE",
+		"Author": "",
+		"MicroCategoryCode": "rcchn1",
+		"MicroCategory": "Ear cuff or single earring",
+		"MicroCategoryPlural": "Ear cuff or single earring",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 41,
+		"DiscountedPrice": 41,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50253211SW",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "36",
+		"FormattedFullPrice": "$ 41.00",
+		"FormattedDiscountedPrice": "$ 41.00",
+		"DiscountedPriceEur": 38,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50253200ST",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Title": "THE JUSTICE CHARM",
+		"Author": "",
+		"MicroCategoryCode": "cndl1",
+		"MicroCategory": "Pendant",
+		"MicroCategoryPlural": "Pendants",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 45,
+		"DiscountedPrice": 45,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50253200ST",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "1514",
+		"FormattedFullPrice": "$ 45.00",
+		"FormattedDiscountedPrice": "$ 45.00",
+		"DiscountedPriceEur": 42,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50260435CF",
+		"Brand": "8 by YOOX",
+		"BrandId": 42641,
+		"Title": "925 SILVER CHAIN RING",
+		"Author": "",
+		"MicroCategoryCode": "nll",
+		"MicroCategory": "Ring",
+		"MicroCategoryPlural": "Rings",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"AlternativeMicro": "Silver ring",
+		"FullPrice": 60,
+		"DiscountedPrice": 49,
+		"DiscountedPercentage": 18,
+		"FormattedDiscountedPercentage": "18% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "9"
+		}, {
+			"Text": "9.5"
+		}, {
+			"Text": "10.25"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50260435CF",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_f", "10_r", "11_d", "11_f", "11_r", "12_d", "12_f", "12_r", "13_d", "13_f", "13_r", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "20_r", "3", "6", "7", "8_d", "8_f", "8_r", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 60.00",
+		"FormattedDiscountedPrice": "$ 49.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 46,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PLV"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_TOPBRAND", "prm_2204_SPRINGESS", "prm_2205_RFTW"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50253156IR",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Title": "LONG CURB CHAIN BRACELET",
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 51,
+		"DiscountedPrice": 51,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "6.7"
+		}, {
+			"Text": "7.5"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50253156IR",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "406",
+		"FormattedFullPrice": "$ 51.00",
+		"FormattedDiscountedPrice": "$ 51.00",
+		"DiscountedPriceEur": 48,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50269158EB",
+		"Brand": "DIESEL",
+		"BrandId": 125,
+		"Title": "DX1336040",
+		"Author": "Diesel",
+		"MicroCategoryCode": "rcchn1",
+		"MicroCategory": "Ear cuff or single earring",
+		"MicroCategoryPlural": "Ear cuff or single earring",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 53,
+		"DiscountedPrice": 53,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50269158EB",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_a", "10_f", "10_r", "11_a", "11_f", "11_r", "12_a", "12_f", "12_r", "13_a", "13_f", "13_r", "14_a", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_f", "20_r", "3", "6", "7", "8_a", "8_f", "8_r", "9_a", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 53.00",
+		"FormattedDiscountedPrice": "$ 53.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 50,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50272861RW",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Author": "",
+		"MicroCategoryCode": "rcchn",
+		"MicroCategory": "Earrings",
+		"MicroCategoryPlural": "Earrings",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 57,
+		"DiscountedPrice": 57,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50272861RW",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_f", "10_r", "11_d", "11_f", "11_r", "12_d", "12_f", "12_r", "13_d", "13_f", "13_r", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "20_r", "3", "6", "7", "8_d", "8_f", "8_r", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 57.00",
+		"FormattedDiscountedPrice": "$ 57.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 53,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46815632NE",
+		"Brand": "DSQUARED2",
+		"BrandId": 378,
+		"Author": "",
+		"MicroCategoryCode": "gmll",
+		"MicroCategory": "Cufflinks and Tie Clips",
+		"MicroCategoryPlural": "Cufflinks and Tie Clips",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 93,
+		"DiscountedPrice": 58,
+		"DiscountedPercentage": 37,
+		"FormattedDiscountedPercentage": "37% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "46815632NE",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 93.00",
+		"FormattedDiscountedPrice": "$ 58.00",
+		"DiscountedPriceEur": 54,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50260438UK",
+		"Brand": "8 by YOOX",
+		"BrandId": 42641,
+		"Title": "925 SILVER RING",
+		"Author": "",
+		"MicroCategoryCode": "nll",
+		"MicroCategory": "Ring",
+		"MicroCategoryPlural": "Rings",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"AlternativeMicro": "Silver ring with engravings",
+		"FullPrice": 70,
+		"DiscountedPrice": 59,
+		"DiscountedPercentage": 15,
+		"FormattedDiscountedPercentage": "15% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "9"
+		}, {
+			"Text": "9.5"
+		}, {
+			"Text": "10.25"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50260438UK",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_f", "10_r", "11_d", "11_f", "11_r", "12_d", "12_f", "12_r", "13_d", "13_f", "13_r", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "20_r", "3", "6", "7", "8_d", "8_f", "8_r", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 70.00",
+		"FormattedDiscountedPrice": "$ 59.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 55,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PLV"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_TOPBRAND", "prm_2204_SPRINGESS", "prm_2205_RFTW"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "45644743RG",
+		"Brand": "DIESEL",
+		"BrandId": 125,
+		"Author": "",
+		"MicroCategoryCode": "znmrsp",
+		"MicroCategory": "Backpack & fanny pack",
+		"MicroCategoryPlural": "Backpacks & fanny packs",
+		"MacroCategoryCode": "brs",
+		"MacroCategory": "Handbags",
+		"MacroCategoryPlural": "Handbags",
+		"FullPrice": 125,
+		"DiscountedPrice": 68,
+		"DiscountedPercentage": 45,
+		"FormattedDiscountedPercentage": "45% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "45644743RG",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 125.00",
+		"FormattedDiscountedPrice": "$ 68.00",
+		"DiscountedPriceEur": 64,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PES"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50217418AV",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Title": "BARBED WIRE FINE RING",
+		"Author": "",
+		"MicroCategoryCode": "nll",
+		"MicroCategory": "Ring",
+		"MicroCategoryPlural": "Rings",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 73,
+		"DiscountedPrice": 73,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "5.5"
+		}, {
+			"Text": "6"
+		}, {
+			"Text": "7"
+		}, {
+			"Text": "8"
+		}, {
+			"Text": "9"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50217418AV",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 73.00",
+		"FormattedDiscountedPrice": "$ 73.00",
+		"DiscountedPriceEur": 69,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM", "ICE"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46812802KG",
+		"Brand": "DIESEL",
+		"BrandId": 125,
+		"Author": "",
+		"MicroCategoryCode": "prtfgl1",
+		"MicroCategory": "Wallet",
+		"MicroCategoryPlural": "Wallets",
+		"MacroCategoryCode": "pcclpllt",
+		"MacroCategory": "Small Leather Goods",
+		"MacroCategoryPlural": "Small Leather Goods",
+		"FullPrice": 150,
+		"DiscountedPrice": 75,
+		"DiscountedPercentage": 50,
+		"FormattedDiscountedPercentage": "50% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 24,
+			"Cod10": "46812802KG",
+			"Description": "Military green",
+			"Rgb": "5A5C35",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}, {
+			"Id": 7,
+			"Cod10": "46812802RD",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}, {
+			"Id": 18,
+			"Cod10": "46812802TH",
+			"Description": "Blue",
+			"Rgb": "214377",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 150.00",
+		"FormattedDiscountedPrice": "$ 75.00",
+		"DiscountedPriceEur": 70,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PES"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "58055971JJ",
+		"Brand": "VERSACE",
+		"BrandId": 1889,
+		"Author": "",
+		"MicroCategoryCode": "",
+		"MicroCategory": "Covers & Cases",
+		"MicroCategoryPlural": "Covers & Cases",
+		"MacroCategoryCode": "htch",
+		"MacroCategory": "Tech gadget ",
+		"MacroCategoryPlural": "Tech gadgets",
+		"FullPrice": 149,
+		"DiscountedPrice": 77,
+		"DiscountedPercentage": 48,
+		"FormattedDiscountedPercentage": "48% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "58055971JJ",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}, {
+			"Id": 28,
+			"Cod10": "58055971JW",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "354",
+		"FormattedFullPrice": "$ 149.00",
+		"FormattedDiscountedPrice": "$ 77.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 72,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_RFTW", "prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46825329HA",
+		"Brand": "DOLCE & GABBANA",
+		"BrandId": 25,
+		"Author": "",
+		"MicroCategoryCode": "scrp",
+		"MicroCategory": "Scarves and foulards",
+		"MicroCategoryPlural": "Scarves and foulards",
+		"MacroCategoryCode": "ccssr",
+		"MacroCategory": "Accessories",
+		"MacroCategoryPlural": "Accessories",
+		"FullPrice": 147,
+		"DiscountedPrice": 86,
+		"DiscountedPercentage": 41,
+		"FormattedDiscountedPercentage": "41% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 24,
+			"Cod10": "46825329HA",
+			"Description": "Military green",
+			"Rgb": "5A5C35",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 147.00",
+		"FormattedDiscountedPrice": "$ 86.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 81,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50260439AF",
+		"Brand": "8 by YOOX",
+		"BrandId": 42641,
+		"Title": "925 SILVER BRACELET",
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"AlternativeMicro": "Silver bracelet",
+		"FullPrice": 110,
+		"DiscountedPrice": 89,
+		"DiscountedPercentage": 19,
+		"FormattedDiscountedPercentage": "19% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "S"
+		}, {
+			"Text": "M"
+		}, {
+			"Text": "L"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50260439AF",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_f", "10_r", "11_d", "11_f", "11_r", "12_d", "12_f", "12_r", "13_d", "13_f", "13_r", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "20_r", "3", "6", "7", "8_d", "8_f", "8_r", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 110.00",
+		"FormattedDiscountedPrice": "$ 89.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 84,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PLV"],
+		"PromoTags": ["prm_2205_RFTW", "prm_2204_SPRINGESS", "prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50267446DN",
+		"Brand": "KARL LAGERFELD",
+		"BrandId": 1293,
+		"Title": "K/AUTOGRAPH SIGNET RING",
+		"Author": "",
+		"MicroCategoryCode": "nll",
+		"MicroCategory": "Ring",
+		"MicroCategoryPlural": "Rings",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 117,
+		"DiscountedPrice": 95,
+		"DiscountedPercentage": 18,
+		"FormattedDiscountedPercentage": "18% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "L"
+		}, {
+			"Text": "XL"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50267446DN",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 117.00",
+		"FormattedDiscountedPrice": "$ 95.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 89,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PRS"],
+		"PromoTags": ["prm_2205_RFTW", "prm_2204_SPRINGESS", "prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46803966TE",
+		"Brand": "DOLCE & GABBANA",
+		"BrandId": 25,
+		"Author": "",
+		"MicroCategoryCode": "crvtt",
+		"MicroCategory": "Ties and bow ties",
+		"MicroCategoryPlural": "Ties and bow ties",
+		"MacroCategoryCode": "ccssr",
+		"MacroCategory": "Accessories",
+		"MacroCategoryPlural": "Accessories",
+		"FullPrice": 213,
+		"DiscountedPrice": 95,
+		"DiscountedPercentage": 55,
+		"FormattedDiscountedPercentage": "55% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 42,
+			"Cod10": "46803966TE",
+			"Description": "Camel",
+			"Rgb": "BEA58F",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "52",
+		"FormattedFullPrice": "$ 213.00",
+		"FormattedDiscountedPrice": "$ 95.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 89,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_TOPBRAND", "prm_2205_RFTW"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46809768WW",
+		"Brand": "GCDS",
+		"BrandId": 23212,
+		"Author": "",
+		"MicroCategoryCode": "cntrnpll",
+		"MicroCategory": "Leather belt",
+		"MicroCategoryPlural": "Leather belts",
+		"MacroCategoryCode": "cntr2",
+		"MacroCategory": "Belts",
+		"MacroCategoryPlural": "Belts",
+		"FullPrice": 166,
+		"DiscountedPrice": 103,
+		"DiscountedPercentage": 37,
+		"FormattedDiscountedPercentage": "37% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "38"
+		}, {
+			"Text": "39.5"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "46809768WW",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 166.00",
+		"FormattedDiscountedPrice": "$ 103.00",
+		"DiscountedPriceEur": 97,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50272878GT",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Author": "",
+		"MicroCategoryCode": "nll",
+		"MicroCategory": "Ring",
+		"MicroCategoryPlural": "Rings",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 104,
+		"DiscountedPrice": 104,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "5.25"
+		}, {
+			"Text": "5.75"
+		}, {
+			"Text": "6.5"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50272878GT",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_f", "11_d", "11_f", "12_d", "12_f", "13_d", "13_f", "14_d", "14_f", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "3", "7", "8_d", "8_f", "9_d", "9_f", "det"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 104.00",
+		"FormattedDiscountedPrice": "$ 104.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 98,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50270279WA",
+		"Brand": "DIESEL",
+		"BrandId": 125,
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 105,
+		"DiscountedPrice": 105,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50270279WA",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_a", "10_f", "10_r", "11_a", "11_f", "11_r", "12_a", "12_f", "12_r", "13_a", "13_f", "13_r", "14_a", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_f", "20_r", "3", "6", "7", "8_a", "8_f", "8_r", "9_a", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 105.00",
+		"FormattedDiscountedPrice": "$ 105.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 99,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17203280FM",
+		"Brand": "DIESEL",
+		"BrandId": 125,
+		"Author": "",
+		"MicroCategoryCode": "snkrs5",
+		"MicroCategory": "Sneakers",
+		"MicroCategoryPlural": "Sneakers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 175,
+		"DiscountedPrice": 105,
+		"DiscountedPercentage": 40,
+		"FormattedDiscountedPercentage": "40% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "7"
+		}, {
+			"Text": "7.5"
+		}, {
+			"Text": "8"
+		}, {
+			"Text": "8.5"
+		}, {
+			"Text": "9"
+		}, {
+			"Text": "9.5"
+		}, {
+			"Text": "10"
+		}, {
+			"Text": "10.5"
+		}, {
+			"Text": "11"
+		}, {
+			"Text": "12"
+		}, {
+			"Text": "12.5"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "17203280FM",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 24,
+			"Cod10": "17203280KS",
+			"Description": "Military green",
+			"Rgb": "5A5C35",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 25,
+			"Cod10": "17203280HT",
+			"Description": "Grey",
+			"Rgb": "8B949C",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 175.00",
+		"FormattedDiscountedPrice": "$ 105.00",
+		"DiscountedPriceEur": 99,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PES"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50256399TP",
+		"Brand": "AMBUSH",
+		"BrandId": 21953,
+		"Author": "",
+		"MicroCategoryCode": "clln",
+		"MicroCategory": "Necklace",
+		"MicroCategoryPlural": "Necklaces",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 189,
+		"DiscountedPrice": 105,
+		"DiscountedPercentage": 44,
+		"FormattedDiscountedPercentage": "44% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50256399TP",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "1756",
+		"FormattedFullPrice": "$ 189.00",
+		"FormattedDiscountedPrice": "$ 105.00",
+		"DiscountedPriceEur": 99,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2204_SPRINGESS", "prm_2204_CL"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "45644726LD",
+		"Brand": "DIESEL",
+		"BrandId": 125,
+		"Author": "",
+		"MicroCategoryCode": "znmrsp",
+		"MicroCategory": "Backpack & fanny pack",
+		"MicroCategoryPlural": "Backpacks & fanny packs",
+		"MacroCategoryCode": "brs",
+		"MacroCategory": "Handbags",
+		"MacroCategoryPlural": "Handbags",
+		"FullPrice": 175,
+		"DiscountedPrice": 114,
+		"DiscountedPercentage": 34,
+		"FormattedDiscountedPercentage": "34% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 76,
+			"Cod10": "45644726LD",
+			"Description": "Deep jade",
+			"Rgb": "1B515A",
+			"ImageFormats": ["1", "10_d", "10_f", "10_r", "11_d", "11_f", "11_r", "12_d", "12_f", "12_r", "13_d", "13_f", "13_r", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "20_r", "3", "6", "7", "8_d", "8_f", "8_r", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 175.00",
+		"FormattedDiscountedPrice": "$ 114.00",
+		"DiscountedPriceEur": 107,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PES"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46812702RU",
+		"Brand": "DIESEL",
+		"BrandId": 125,
+		"Author": "",
+		"MicroCategoryCode": "prtfgl1",
+		"MicroCategory": "Wallet",
+		"MicroCategoryPlural": "Wallets",
+		"MacroCategoryCode": "pcclpllt",
+		"MacroCategory": "Small Leather Goods",
+		"MacroCategoryPlural": "Small Leather Goods",
+		"FullPrice": 195,
+		"DiscountedPrice": 115,
+		"DiscountedPercentage": 41,
+		"FormattedDiscountedPercentage": "41% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 18,
+			"Cod10": "46812702RU",
+			"Description": "Blue",
+			"Rgb": "214377",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 195.00",
+		"FormattedDiscountedPrice": "$ 115.00",
+		"DiscountedPriceEur": 108,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PES"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46805367EC",
+		"Brand": "GCDS",
+		"BrandId": 23212,
+		"Author": "",
+		"MicroCategoryCode": "cntrnpll",
+		"MicroCategory": "Leather belt",
+		"MicroCategoryPlural": "Leather belts",
+		"MacroCategoryCode": "cntr2",
+		"MacroCategory": "Belts",
+		"MacroCategoryPlural": "Belts",
+		"FullPrice": 142,
+		"DiscountedPrice": 115,
+		"DiscountedPercentage": 19,
+		"FormattedDiscountedPercentage": "19% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "38"
+		}, {
+			"Text": "39.5"
+		}, {
+			"Text": "42"
+		}, {
+			"Text": "43"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "46805367EC",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "75",
+		"FormattedFullPrice": "$ 142.00",
+		"FormattedDiscountedPrice": "$ 115.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 108,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["FIS"],
+		"PromoTags": ["prm_2205_RFTW", "prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50260428GA",
+		"Brand": "8 by YOOX",
+		"BrandId": 42641,
+		"Title": "925 SILVER BRACELET",
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"AlternativeMicro": "Silver bracelet",
+		"FullPrice": 140,
+		"DiscountedPrice": 115,
+		"DiscountedPercentage": 17,
+		"FormattedDiscountedPercentage": "17% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "S"
+		}, {
+			"Text": "M"
+		}, {
+			"Text": "L"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50260428GA",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_f", "10_r", "11_d", "11_f", "11_r", "12_d", "12_f", "12_r", "13_d", "13_f", "13_r", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "20_r", "3", "6", "7", "8_d", "8_f", "8_r", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 140.00",
+		"FormattedDiscountedPrice": "$ 115.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 108,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PLV"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_TOPBRAND", "prm_2204_SPRINGESS", "prm_2205_RFTW"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50260437AM",
+		"Brand": "8 by YOOX",
+		"BrandId": 42641,
+		"Title": "925 SILVER CHAIN BRACELET",
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"AlternativeMicro": "Silver bracelet",
+		"FullPrice": 140,
+		"DiscountedPrice": 115,
+		"DiscountedPercentage": 17,
+		"FormattedDiscountedPercentage": "17% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "S"
+		}, {
+			"Text": "M"
+		}, {
+			"Text": "L"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50260437AM",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_f", "10_r", "11_d", "11_f", "11_r", "12_d", "12_f", "12_r", "13_d", "13_f", "13_r", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "20_r", "3", "6", "7", "8_d", "8_f", "8_r", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 140.00",
+		"FormattedDiscountedPrice": "$ 115.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 108,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PLV"],
+		"PromoTags": ["prm_2205_RFTW", "prm_2204_SPRINGESS", "prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50272867UT",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Author": "",
+		"MicroCategoryCode": "nll",
+		"MicroCategory": "Ring",
+		"MicroCategoryPlural": "Rings",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 116,
+		"DiscountedPrice": 116,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "5.25"
+		}, {
+			"Text": "5.75"
+		}, {
+			"Text": "6.5"
+		}, {
+			"Text": "7.5"
+		}, {
+			"Text": "8"
+		}, {
+			"Text": "9.25"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50272867UT",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_f", "11_d", "11_f", "12_d", "12_f", "13_d", "13_f", "14_d", "14_f", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "3", "7", "8_d", "8_f", "9_d", "9_f", "det"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 116.00",
+		"FormattedDiscountedPrice": "$ 116.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 109,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50253158SA",
+		"Brand": "NOVE25",
+		"BrandId": 41737,
+		"Title": "THE SUN PENDANT CARNELIAN",
+		"Author": "",
+		"MicroCategoryCode": "cndl1",
+		"MicroCategory": "Pendant",
+		"MicroCategoryPlural": "Pendants",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 116,
+		"DiscountedPrice": 116,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "50253158SA",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 116.00",
+		"FormattedDiscountedPrice": "$ 116.00",
+		"DiscountedPriceEur": 109,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17203346AT",
+		"Brand": "DIESEL",
+		"BrandId": 125,
+		"Author": "",
+		"MicroCategoryCode": "snkrs5",
+		"MicroCategory": "Sneakers",
+		"MicroCategoryPlural": "Sneakers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 195,
+		"DiscountedPrice": 117,
+		"DiscountedPercentage": 40,
+		"FormattedDiscountedPercentage": "40% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "7"
+		}, {
+			"Text": "7.5"
+		}, {
+			"Text": "8"
+		}, {
+			"Text": "8.5"
+		}, {
+			"Text": "9"
+		}, {
+			"Text": "9.5"
+		}, {
+			"Text": "10"
+		}, {
+			"Text": "10.5"
+		}, {
+			"Text": "11"
+		}, {
+			"Text": "12"
+		}, {
+			"Text": "12.5"
+		}],
+		"Colors": [{
+			"Id": 25,
+			"Cod10": "17203346AT",
+			"Description": "Grey",
+			"Rgb": "8B949C",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 7,
+			"Cod10": "17203346GM",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 24,
+			"Cod10": "17203346WA",
+			"Description": "Military green",
+			"Rgb": "5A5C35",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 195.00",
+		"FormattedDiscountedPrice": "$ 117.00",
+		"DiscountedPriceEur": 110,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PES"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "13754049QT",
+		"Brand": "MAURO GRIFONI",
+		"BrandId": 3796,
+		"Author": "",
+		"MicroCategoryCode": "pntln1",
+		"MicroCategory": "Casual pants",
+		"MicroCategoryPlural": "Casual pants",
+		"MacroCategoryCode": "pntln",
+		"MacroCategory": "Pants",
+		"MacroCategoryPlural": "Pants",
+		"FullPrice": 297,
+		"DiscountedPrice": 118,
+		"DiscountedPercentage": 60,
+		"FormattedDiscountedPercentage": "60% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "36"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "13754049QT",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_a", "10_d", "10_f", "10_r", "11_a", "11_d", "11_f", "11_r", "12_a", "12_d", "12_f", "12_r", "13_a", "13_d", "13_f", "13_r", "14_a", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_f", "8_r", "9_a", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 297.00",
+		"FormattedDiscountedPrice": "$ 118.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 111,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_RFTW"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46704893SV",
+		"Brand": "DSQUARED2",
+		"BrandId": 378,
+		"Author": "",
+		"MicroCategoryCode": "gmll",
+		"MicroCategory": "Cufflinks and Tie Clips",
+		"MicroCategoryPlural": "Cufflinks and Tie Clips",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 212,
+		"DiscountedPrice": 121,
+		"DiscountedPercentage": 42,
+		"FormattedDiscountedPercentage": "42% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "46704893SV",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "60",
+		"FormattedFullPrice": "$ 212.00",
+		"FormattedDiscountedPrice": "$ 121.00",
+		"DiscountedPriceEur": 114,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46812461QA",
+		"Brand": "DOLCE & GABBANA",
+		"BrandId": 25,
+		"Author": "",
+		"MicroCategoryCode": "crvtt",
+		"MicroCategory": "Ties and bow ties",
+		"MicroCategoryPlural": "Ties and bow ties",
+		"MacroCategoryCode": "ccssr",
+		"MacroCategory": "Accessories",
+		"MacroCategoryPlural": "Accessories",
+		"FullPrice": 172,
+		"DiscountedPrice": 122,
+		"DiscountedPercentage": 29,
+		"FormattedDiscountedPercentage": "29% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "46812461QA",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 172.00",
+		"FormattedDiscountedPrice": "$ 122.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 115,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50266420AT",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Title": "HAMMERED MID EAR CUFF",
+		"Author": "",
+		"MicroCategoryCode": "rcchn1",
+		"MicroCategory": "Ear cuff or single earring",
+		"MicroCategoryPlural": "Ear cuff or single earring",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 124,
+		"DiscountedPrice": 124,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50266420AT",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 124.00",
+		"FormattedDiscountedPrice": "$ 124.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 117,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": ["prm_2205_RFTW", "prm_2204_SPRINGESS"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46826937SW",
+		"Brand": "DOLCE & GABBANA",
+		"BrandId": 25,
+		"Author": "",
+		"MicroCategoryCode": "crvtt",
+		"MicroCategory": "Ties and bow ties",
+		"MicroCategoryPlural": "Ties and bow ties",
+		"MacroCategoryCode": "ccssr",
+		"MacroCategory": "Accessories",
+		"MacroCategoryPlural": "Accessories",
+		"FullPrice": 204,
+		"DiscountedPrice": 126,
+		"DiscountedPercentage": 38,
+		"FormattedDiscountedPercentage": "38% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 6,
+			"Cod10": "46826937SW",
+			"Description": "White",
+			"Rgb": "FFFFFF",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 204.00",
+		"FormattedDiscountedPrice": "$ 126.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 119,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46826927GJ",
+		"Brand": "DOLCE & GABBANA",
+		"BrandId": 25,
+		"Author": "",
+		"MicroCategoryCode": "crvtt",
+		"MicroCategory": "Ties and bow ties",
+		"MicroCategoryPlural": "Ties and bow ties",
+		"MacroCategoryCode": "ccssr",
+		"MacroCategory": "Accessories",
+		"MacroCategoryPlural": "Accessories",
+		"FullPrice": 204,
+		"DiscountedPrice": 126,
+		"DiscountedPercentage": 38,
+		"FormattedDiscountedPercentage": "38% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "46826927GJ",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "2268",
+		"FormattedFullPrice": "$ 204.00",
+		"FormattedDiscountedPrice": "$ 126.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "Promo permanente JUST IN SR",
+			"Img": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png"
+		},
+		"DiscountedPriceEur": 119,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50266395PS",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Title": "HAMMERED EARRING",
+		"Author": "",
+		"MicroCategoryCode": "rcchn1",
+		"MicroCategory": "Ear cuff or single earring",
+		"MicroCategoryPlural": "Ear cuff or single earring",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 133,
+		"DiscountedPrice": 133,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50266395PS",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 133.00",
+		"FormattedDiscountedPrice": "$ 133.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE/LABEL RFTW WW US",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+		},
+		"DiscountedPriceEur": 125,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": ["prm_2204_SPRINGESS", "prm_2205_RFTW"],
+		"Is3rdParty": false
+	}],
+	"SearchRequest": {
+		"Tags": [],
+		"Department": "mmrc_2205yxgl",
+		"InheritedMicroDesignerIds": "",
+		"MacroColorIds": "",
+		"SizeIds": "",
+		"SortId": 3,
+		"SortValue": "PriceAscending",
+		"Season": "X",
+		"Gender": "U",
+		"Page": 1,
+		"ProductsPerPage": 40,
+		"TextSearch": "",
+		"MicroDesigners": [],
+		"Attributes": {},
+		"SelectedCategories": [],
+		"HasCustomAttributeselected": false,
+		"MoreThanOneDesignerIsSelected": false
+	},
+	"Area": "fashion",
+	"Analytics": {
+		"SelectedBrand": "",
+		"TypedTextSearch": "",
+		"TotalPages": "13",
+		"Color": "",
+		"Season": "X",
+		"ItemPerPage": "40",
+		"SelectedPage": "1",
+		"Sorting": "PriceAsc",
+		"TotalItems": "518",
+		"Url": "/us/men/shoponline?dept=mmrc_2205yxgl&gender=U&page=1&season=X&sort=3"
+	},
+	"BrandBannerActionUrl": "",
+	"MobileFriendlyUrl": "https://www.yoox.com/YooxCore.API/1.0/YOOX_US/SearchResults",
+	"ParentDepartment": "men",
+	"Department": "mmrc_2205yxgl",
+	"ErrorCode": 0
+}

@@ -1,0 +1,3168 @@
+{
+	"Chips": [{
+		"Label": "M",
+		"IsSelected": false,
+		"Attributes": {
+			"tgl": ["4"]
+		}
+	}, {
+		"Label": "L",
+		"IsSelected": false,
+		"Attributes": {
+			"tgl": ["5"]
+		}
+	}, {
+		"Label": "Black",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["7"]
+		}
+	}, {
+		"Label": "S",
+		"IsSelected": false,
+		"Attributes": {
+			"tgl": ["3"]
+		}
+	}, {
+		"Label": "Coats & Jackets",
+		"IsSelected": false,
+		"Attributes": {
+			"ctgr": ["cpspll"]
+		}
+	}, {
+		"Label": "Silver",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["28"]
+		}
+	}, {
+		"Label": "Gold",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["29"]
+		}
+	}, {
+		"Label": "BOTTEGA VENETA",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["664"]
+		}
+	}, {
+		"Label": "VERSACE",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["1889"]
+		}
+	}, {
+		"Label": "Cotton",
+		"IsSelected": false,
+		"Attributes": {
+			"mtrl": ["ctn"]
+		}
+	}, {
+		"Label": "MAISON MARGIELA",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["50"]
+		}
+	}, {
+		"Label": "AMBUSH",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["21953"]
+		}
+	}, {
+		"Label": "DOLCE & GABBANA",
+		"IsSelected": false,
+		"Attributes": {
+			"dsgnrs": ["25"]
+		}
+	}, {
+		"Label": "Green",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["22"]
+		}
+	}, {
+		"Label": "Blue",
+		"IsSelected": false,
+		"Attributes": {
+			"clr": ["18"]
+		}
+	}, {
+		"Label": "Accessories",
+		"IsSelected": false,
+		"Attributes": {
+			"ctgr": ["ccssr"]
+		}
+	}, {
+		"Label": "Cashmere",
+		"IsSelected": false,
+		"Attributes": {
+			"mtrl": ["cshmr"]
+		}
+	}, {
+		"Label": "Belts",
+		"IsSelected": false,
+		"Attributes": {
+			"ctgr": ["cntr2"]
+		}
+	}, {
+		"Label": "Animal print",
+		"IsSelected": false,
+		"Attributes": {
+			"pttrn1": ["nmlpttrn"]
+		}
+	}, {
+		"Label": "Checks",
+		"IsSelected": false,
+		"Attributes": {
+			"pttrn1": ["chckddsg"]
+		}
+	}, {
+		"Label": "Crystals",
+		"IsSelected": false,
+		"Attributes": {
+			"mtrl": ["crstll"]
+		}
+	}, {
+		"Label": "Eyewear",
+		"IsSelected": false,
+		"Attributes": {
+			"ctgr": ["cchl"]
+		}
+	}, {
+		"Label": "Camouflage",
+		"IsSelected": false,
+		"Attributes": {
+			"pttrn1": ["cmflgdsg"]
+		}
+	}, {
+		"Label": "Ceramic",
+		"IsSelected": false,
+		"Attributes": {
+			"mtrl": ["crmc1"]
+		}
+	}],
+	"SearchResultTitle": "MEN",
+	"Links": [{
+		"HRef": "",
+		"Rel": "related",
+		"Title": "top-banner",
+		"Templated": false,
+		"Type": "",
+		"Attributes": {
+			"ImageUrl": "",
+			"Title": "YOOX GALA",
+			"Subtitle": null,
+			"CallToAction": "",
+			"BannerSlotImgWidth": "1",
+			"BannerSlotImgHeight": "1",
+			"BackgroundColor": "ffde38",
+			"ForegroundColor": "333333",
+			"Local": "",
+			"BannerSlot": "BNR_TOP_NATIVA",
+			"BannerPage": "mmrc_2205yxgl"
+		}
+	}],
+	"TrackingInfo": {
+		"ScreenName": "men - mmrc_2205yxgl",
+		"PageCat1": "mmrc_2205yxgl",
+		"PageCat2": "",
+		"SearchKeywords": ""
+	},
+	"BannerItems": [],
+	"Refinements": {
+		"Filters": {
+			"Prices": {
+				"StepRanges": [{
+					"Min": 20,
+					"Max": 500,
+					"Step": 50
+				}, {
+					"Min": 500,
+					"Max": 2500,
+					"Step": 250
+				}, {
+					"Min": 2500,
+					"Max": 6320,
+					"Step": 500
+				}],
+				"Min": 20,
+				"Max": 6320,
+				"PriceMin": 20,
+				"PriceMax": 6320,
+				"Step": 50
+			},
+			"HasMySizes": true,
+			"Attributes": [{
+				"Refinements": [],
+				"Code": "ctgr",
+				"IsSelected": false,
+				"Type": "ctgr",
+				"Attributes": [{
+					"Code": "ccssr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "cppll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Hats"
+					}, {
+						"Code": "scrp",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Scarves and foulards"
+					}, {
+						"Code": "sttnry",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Stationery and Pens"
+					}, {
+						"Code": "crvtt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Ties and bow ties"
+					}],
+					"Value": "Accessories"
+				}, {
+					"Code": "cntr2",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "cntrntss",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Fabric belts"
+					}, {
+						"Code": "cntrnpll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Leather belts"
+					}],
+					"Value": "Belts"
+				}, {
+					"Code": "cpspll",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "bkr1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Biker jackets"
+					}, {
+						"Code": "gcc",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Blazers"
+					}, {
+						"Code": "bmbr1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Bombers"
+					}, {
+						"Code": "cpptt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Coats"
+					}, {
+						"Code": "gbbttjns",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Denim jackets"
+					}, {
+						"Code": "cbn1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Double breasted pea coat"
+					}, {
+						"Code": "sprbt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Full-length jackets"
+					}, {
+						"Code": "gbbtt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Jackets"
+					}, {
+						"Code": "gbbttpll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Leather jackets"
+					}, {
+						"Code": "prk1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Parkas"
+					}, {
+						"Code": "pmn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Shell  jackets"
+					}, {
+						"Code": "pmnsnttc",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Synthetic padding"
+					}, {
+						"Code": "trnch1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Trench coats"
+					}],
+					"Value": "Coats & Jackets"
+				}, {
+					"Code": "cchl",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "cchldsl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sunglasses"
+					}],
+					"Value": "Eyewear"
+				}, {
+					"Code": "clztr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "stvlttmn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Boots"
+					}, {
+						"Code": "chlbts",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Chelsea boots"
+					}, {
+						"Code": "nfb4",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Combat boots"
+					}, {
+						"Code": "nfrdt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Flip flops"
+					}, {
+						"Code": "strngt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Laced shoes"
+					}, {
+						"Code": "mcssn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Loafers"
+					}, {
+						"Code": "ml",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Mules and clogs"
+					}, {
+						"Code": "sndl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sandals"
+					}, {
+						"Code": "pntfl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Slides and slippers"
+					}, {
+						"Code": "snkrs5",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sneakers"
+					}],
+					"Value": "Footwear"
+				}, {
+					"Code": "brs",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "znmrsp",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Backpacks & fanny packs"
+					}, {
+						"Code": "brstrcll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cross-body bags"
+					}, {
+						"Code": "brsmn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Handbags"
+					}, {
+						"Code": "brsspll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Shoulder bags"
+					}, {
+						"Code": "brsdlvr",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Work bags"
+					}],
+					"Value": "Handbags"
+				}, {
+					"Code": "cmplmntr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "pttdcrtv",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Decorative plates"
+					}, {
+						"Code": "spcch",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Mirrors"
+					}, {
+						"Code": "ggttstc",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Small objects for Home"
+					}, {
+						"Code": "vs",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Vases"
+					}],
+					"Value": "Home accessories"
+				}, {
+					"Code": "jns",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "pntlnjns",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Denim pants"
+					}, {
+						"Code": "shrtsjns",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Denim shorts"
+					}],
+					"Value": "Jeans and Denim"
+				}, {
+					"Code": "gll",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "brccl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Bracelets"
+					}, {
+						"Code": "spll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Brooches"
+					}, {
+						"Code": "gmll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cufflinks and Tie Clips"
+					}, {
+						"Code": "rcchn1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Ear cuff or single earring"
+					}, {
+						"Code": "rcchn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Earrings"
+					}, {
+						"Code": "clln",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Necklaces"
+					}, {
+						"Code": "cndl1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Pendants"
+					}, {
+						"Code": "nll",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Rings"
+					}, {
+						"Code": "rlgdpls1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Wrist watches"
+					}],
+					"Value": "Jewelry"
+				}, {
+					"Code": "vlgr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "brsn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Travel & duffel bag"
+					}],
+					"Value": "Luggage"
+				}, {
+					"Code": "pntln",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "tsch2",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "5-pocket"
+					}, {
+						"Code": "crg1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cargo"
+					}, {
+						"Code": "pntln1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Casual pants"
+					}, {
+						"Code": "chns1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Chinos"
+					}, {
+						"Code": "pntlncls",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Dress pants"
+					}, {
+						"Code": "shrts",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Shorts & Bermuda"
+					}, {
+						"Code": "pntlnflp",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sweatpants"
+					}],
+					"Value": "Pants"
+				}, {
+					"Code": "cmc",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "cmcqdr",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Checked shirts"
+					}, {
+						"Code": "cmcfntsm",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Patterned shirts"
+					}, {
+						"Code": "cmctntnt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Solid color shirts"
+					}],
+					"Value": "Shirts"
+				}, {
+					"Code": "pcclpllt",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "prtdcmnt1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Document holders"
+					}, {
+						"Code": "prtchv1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Key rings"
+					}, {
+						"Code": "prtfgl1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Wallets"
+					}],
+					"Value": "Small Leather Goods"
+				}, {
+					"Code": "bt",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "gcc2",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Blazers"
+					}, {
+						"Code": "bt1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Suit"
+					}, {
+						"Code": "glt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Suit vests"
+					}],
+					"Value": "Suits and Blazers"
+				}, {
+					"Code": "mglr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "crdgn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cardigans"
+					}, {
+						"Code": "mglncchm",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Cashmere blends"
+					}, {
+						"Code": "flpcncpp2",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Hooded sweatshirts"
+					}, {
+						"Code": "pllvr",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sweaters"
+					}, {
+						"Code": "flp1",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sweatshirts"
+					}, {
+						"Code": "dlcvt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Turtlenecks"
+					}],
+					"Value": "Sweaters and Sweatshirts"
+				}, {
+					"Code": "tpwr",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "pl",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Polo shirts"
+					}, {
+						"Code": "cntt2",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Tank tops"
+					}, {
+						"Code": "tshrt",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "T-shirts"
+					}],
+					"Value": "T-Shirts and Tops"
+				}, {
+					"Code": "ntmmn",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "pgmmn",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Sleepwear"
+					}],
+					"Value": "Underwear"
+				}, {
+					"Code": "rlg",
+					"IsSelected": false,
+					"Type": "category",
+					"Attributes": [{
+						"Code": "rlgdpls",
+						"IsSelected": false,
+						"Type": "category",
+						"Attributes": [],
+						"Value": "Wrist watches"
+					}],
+					"Value": "Watches"
+				}],
+				"Value": "Categories"
+			}, {
+				"Code": "dsgnrs",
+				"IsSelected": false,
+				"Type": "dsgnrs",
+				"Attributes": [{
+					"Code": "285",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ALEXANDER MCQUEEN"
+				}, {
+					"Code": "50258",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ALIGHIERI x YOOX"
+				}, {
+					"Code": "21953",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "AMBUSH"
+				}, {
+					"Code": "221",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BALENCIAGA"
+				}, {
+					"Code": "1035",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BIKKEMBERGS"
+				}, {
+					"Code": "664",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BOTTEGA VENETA"
+				}, {
+					"Code": "942",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BRUNELLO CUCINELLI"
+				}, {
+					"Code": "28997",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "BURBERRY"
+				}, {
+					"Code": "210",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "CELINE"
+				}, {
+					"Code": "17",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "COMME des GARÇONS"
+				}, {
+					"Code": "125",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DIESEL"
+				}, {
+					"Code": "25",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DOLCE & GABBANA"
+				}, {
+					"Code": "28",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DRIES VAN NOTEN"
+				}, {
+					"Code": "14167",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DRKSHDW by RICK OWENS"
+				}, {
+					"Code": "378",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "DSQUARED2"
+				}, {
+					"Code": "12646",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "EMANUELE BICOCCHI"
+				}, {
+					"Code": "128",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "EMPORIO ARMANI"
+				}, {
+					"Code": "773",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ERMENEGILDO ZEGNA"
+				}, {
+					"Code": "30",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ETRO"
+				}, {
+					"Code": "20669",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "FIRST PEOPLE FIRST"
+				}, {
+					"Code": "9690",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "FORNASETTI"
+				}, {
+					"Code": "23212",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GCDS"
+				}, {
+					"Code": "36105",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GHIDINI 1961"
+				}, {
+					"Code": "3117",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GIUSEPPE ZANOTTI"
+				}, {
+					"Code": "792",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GIVENCHY"
+				}, {
+					"Code": "42",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "GUCCI"
+				}, {
+					"Code": "539",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "ISAIA"
+				}, {
+					"Code": "374",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "JUNYA WATANABE"
+				}, {
+					"Code": "390",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "JUST CAVALLI"
+				}, {
+					"Code": "1293",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "KARL LAGERFELD"
+				}, {
+					"Code": "1305",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "KITON"
+				}, {
+					"Code": "50",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MAISON MARGIELA"
+				}, {
+					"Code": "3796",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MAURO GRIFONI"
+				}, {
+					"Code": "6621",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MEMPHIS MILANO"
+				}, {
+					"Code": "403",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MICHAEL KORS"
+				}, {
+					"Code": "12821",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "MONTBLANC"
+				}, {
+					"Code": "9311",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "NORMANN COPENHAGEN"
+				}, {
+					"Code": "41737",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "NOVE25"
+				}, {
+					"Code": "6759",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "PHILIPP PLEIN"
+				}, {
+					"Code": "63",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "PRADA"
+				}, {
+					"Code": "1316",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "RICK OWENS"
+				}, {
+					"Code": "24494",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "SAINT LAURENT"
+				}, {
+					"Code": "10781",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "SELETTI"
+				}, {
+					"Code": "83",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "TOD'S"
+				}, {
+					"Code": "7674",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "TOM FORD"
+				}, {
+					"Code": "1133",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "VALENTINO GARAVANI"
+				}, {
+					"Code": "1889",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "VERSACE"
+				}, {
+					"Code": "42641",
+					"IsSelected": false,
+					"Type": "designer",
+					"Attributes": [],
+					"Value": "8 by YOOX"
+				}],
+				"Value": "Designers"
+			}, {
+				"Code": "przz",
+				"IsSelected": false,
+				"Type": "PriceSlider",
+				"Attributes": [{
+					"IsSelected": false,
+					"Attributes": []
+				}],
+				"Value": "Price range"
+			}, {
+				"DepartmentType": "normal",
+				"HasMySizes": true,
+				"Code": "tgl",
+				"IsSelected": false,
+				"Type": "tgl",
+				"Attributes": [{
+					"HasMySizes": false,
+					"Code": "1",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XXS"
+				}, {
+					"HasMySizes": false,
+					"Code": "2",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XS"
+				}, {
+					"HasMySizes": false,
+					"Code": "3",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "S"
+				}, {
+					"HasMySizes": false,
+					"Code": "4",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "M"
+				}, {
+					"HasMySizes": false,
+					"Code": "5",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "L"
+				}, {
+					"HasMySizes": false,
+					"Code": "6",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XL"
+				}, {
+					"HasMySizes": false,
+					"Code": "7",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XXL"
+				}, {
+					"HasMySizes": false,
+					"Code": "8",
+					"IsSelected": false,
+					"Type": "size",
+					"Attributes": [],
+					"Value": "XXXL"
+				}],
+				"Value": "Sizes"
+			}, {
+				"Code": "clr",
+				"IsSelected": false,
+				"Type": "Color",
+				"Attributes": [{
+					"RGB": "4872BA",
+					"Code": "35",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Azure"
+				}, {
+					"RGB": "CDBD9A",
+					"Code": "32",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Beige"
+				}, {
+					"RGB": "000000",
+					"Code": "7",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Black"
+				}, {
+					"RGB": "214377",
+					"Code": "18",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Blue"
+				}, {
+					"RGB": "836D5C",
+					"Code": "37",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Brown"
+				}, {
+					"RGB": "988F60",
+					"Code": "29",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Gold"
+				}, {
+					"RGB": "3C941F",
+					"Code": "22",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Green"
+				}, {
+					"RGB": "8B949C",
+					"Code": "25",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Grey"
+				}, {
+					"RGB": "DF4E29",
+					"Code": "9",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Orange"
+				}, {
+					"RGB": "E5A2B5",
+					"Code": "12",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Pink"
+				}, {
+					"RGB": "693883",
+					"Code": "14",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Purple"
+				}, {
+					"RGB": "A40000",
+					"Code": "11",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Red"
+				}, {
+					"RGB": "ABB2BA",
+					"Code": "28",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Silver"
+				}, {
+					"RGB": "ffffff",
+					"Code": "8",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Transparent"
+				}, {
+					"RGB": "FFFFFF",
+					"Code": "6",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "White"
+				}, {
+					"RGB": "EBD832",
+					"Code": "10",
+					"IsSelected": false,
+					"Type": "Color",
+					"Attributes": [],
+					"Value": "Yellow"
+				}],
+				"Value": "Colors"
+			}, {
+				"Code": "pttrn1",
+				"IsSelected": false,
+				"Type": "pttrn1",
+				"Attributes": [{
+					"Code": "nmlpttrn",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Animal print"
+				}, {
+					"Code": "cmflgdsg",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Camouflage"
+				}, {
+					"Code": "chckddsg",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Checks"
+				}, {
+					"Code": "flrldsgn",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Floral"
+				}, {
+					"Code": "sldclr",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "One color"
+				}, {
+					"Code": "thrpttrn",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Other pattern"
+				}, {
+					"Code": "pnstrpd",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Pinstripe"
+				}, {
+					"Code": "plkdts",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Polka dot"
+				}, {
+					"Code": "strps",
+					"IsSelected": false,
+					"Type": "pttrn1",
+					"Attributes": [],
+					"Value": "Stripes"
+				}],
+				"Value": "Print"
+			}, {
+				"Code": "mtrl",
+				"IsSelected": false,
+				"Type": "mtrl",
+				"Attributes": [{
+					"Code": "cshmr",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Cashmere"
+				}, {
+					"Code": "crmc1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Ceramic"
+				}, {
+					"Code": "ctn",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Cotton"
+				}, {
+					"Code": "crstll",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Crystals"
+				}, {
+					"Code": "ptr",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Gems"
+				}, {
+					"Code": "vtr1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Glass"
+				}, {
+					"Code": "r1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Gold"
+				}, {
+					"Code": "lthr",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Leather"
+				}, {
+					"Code": "ln",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Linen"
+				}, {
+					"Code": "mtllptr",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Metals"
+				}, {
+					"Code": "plstc1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Plastic"
+				}, {
+					"Code": "prclln1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Porcelain"
+				}, {
+					"Code": "mtrlrccl",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Recycled Materials"
+				}, {
+					"Code": "st",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Silk"
+				}, {
+					"Code": "rgnt1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Silver"
+				}, {
+					"Code": "ln1",
+					"IsSelected": false,
+					"Type": "mtrl",
+					"Attributes": [],
+					"Value": "Wool"
+				}],
+				"Value": "Materials"
+			}, {
+				"Code": "nvgpr",
+				"IsSelected": false,
+				"Type": "nvgpr",
+				"Attributes": [{
+					"Code": "merch_accessori",
+					"IsSelected": false,
+					"Type": "nvgpr",
+					"Attributes": [],
+					"Value": "ACCESSORIES"
+				}, {
+					"Code": "merch_abbigliamento",
+					"IsSelected": false,
+					"Type": "nvgpr",
+					"Attributes": [],
+					"Value": "CLOTHING"
+				}, {
+					"Code": "merch_scarpe",
+					"IsSelected": false,
+					"Type": "nvgpr",
+					"Attributes": [],
+					"Value": "SHOES"
+				}],
+				"Value": "SHOP BY CATEGORY"
+			}]
+		},
+		"BreadCrumbs": {
+			"IsAddToPremiereEnabled": false,
+			"PremiereDisabledLabel": "premiereCategoryDesigner_alert",
+			"Breadcrumbs": []
+		},
+		"MoreBrands": {}
+	},
+	"Items": [{
+		"Cod10": "42829428QJ",
+		"Brand": "MAISON MARGIELA",
+		"BrandId": 50,
+		"Author": "",
+		"MicroCategoryCode": "pntlnjns",
+		"MicroCategory": "Denim pants",
+		"MicroCategoryPlural": "Denim pants",
+		"MacroCategoryCode": "jns",
+		"MacroCategory": "Jeans and Denim",
+		"MacroCategoryPlural": "Jeans and Denim",
+		"FullPrice": 738,
+		"DiscountedPrice": 359,
+		"DiscountedPercentage": 51,
+		"FormattedDiscountedPercentage": "51% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "29"
+		}, {
+			"Text": "30"
+		}, {
+			"Text": "31"
+		}, {
+			"Text": "32"
+		}, {
+			"Text": "33"
+		}, {
+			"Text": "34"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "42829428QJ",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_a", "10_d", "10_f", "10_r", "11_a", "11_d", "11_f", "11_r", "12_a", "12_d", "12_f", "12_r", "13_a", "13_d", "13_f", "13_r", "14_a", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_f", "8_r", "9_a", "9_d", "9_f", "9_r", "det"]
+		}, {
+			"Id": 6,
+			"Cod10": "42829428KD",
+			"Description": "White",
+			"Rgb": "FFFFFF",
+			"ImageFormats": ["1", "10_a", "10_d", "10_f", "10_r", "11_a", "11_d", "11_f", "11_r", "12_a", "12_d", "12_f", "12_r", "13_a", "13_d", "13_f", "13_r", "14_a", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_f", "8_r", "9_a", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 738.00",
+		"FormattedDiscountedPrice": "$ 359.00",
+		"DiscountedPriceEur": 339,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "45559019LF",
+		"Brand": "VALENTINO GARAVANI",
+		"BrandId": 1133,
+		"Author": "",
+		"MicroCategoryCode": "znmrsp",
+		"MicroCategory": "Backpack & fanny pack",
+		"MicroCategoryPlural": "Backpacks & fanny packs",
+		"MacroCategoryCode": "brs",
+		"MacroCategory": "Handbags",
+		"MacroCategoryPlural": "Handbags",
+		"FullPrice": 1249,
+		"DiscountedPrice": 701,
+		"DiscountedPercentage": 43,
+		"FormattedDiscountedPercentage": "43% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 8,
+			"Cod10": "45559019LF",
+			"Description": "Transparent",
+			"Rgb": "ffffff",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 1,249.00",
+		"FormattedDiscountedPrice": "$ 701.00",
+		"DiscountedPriceEur": 663,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "12732684WR",
+		"Brand": "VERSACE",
+		"BrandId": 1889,
+		"Author": "",
+		"MicroCategoryCode": "tshrt",
+		"MicroCategory": "T-shirt",
+		"MicroCategoryPlural": "T-shirts",
+		"MacroCategoryCode": "tpwr",
+		"MacroCategory": "T-Shirts and Tops",
+		"MacroCategoryPlural": "T-Shirts and Tops",
+		"FullPrice": 487,
+		"DiscountedPrice": 375,
+		"DiscountedPercentage": 22,
+		"FormattedDiscountedPercentage": "22% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "L"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "12732684WR",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_a", "10_d", "10_f", "10_r", "11_a", "11_d", "11_f", "11_r", "12_a", "12_d", "12_f", "12_r", "13_a", "13_d", "13_f", "13_r", "14_a", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_f", "8_r", "9_a", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "68",
+		"FormattedFullPrice": "$ 487.00",
+		"FormattedDiscountedPrice": "$ 375.00",
+		"DiscountedPriceEur": 354,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17190158BJ",
+		"Brand": "GIUSEPPE ZANOTTI",
+		"BrandId": 3117,
+		"Author": "",
+		"MicroCategoryCode": "snkrs5",
+		"MicroCategory": "Sneakers",
+		"MicroCategoryPlural": "Sneakers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 880,
+		"DiscountedPrice": 390,
+		"DiscountedPercentage": 55,
+		"FormattedDiscountedPercentage": "55% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "7"
+		}, {
+			"Text": "8"
+		}, {
+			"Text": "9"
+		}, {
+			"Text": "10"
+		}, {
+			"Text": "11"
+		}, {
+			"Text": "12"
+		}, {
+			"Text": "13"
+		}, {
+			"Text": "14"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "17190158BJ",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 29,
+			"Cod10": "17190158BW",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "1756",
+		"FormattedFullPrice": "$ 880.00",
+		"FormattedDiscountedPrice": "$ 390.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 369,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "13561304WW",
+		"Brand": "AMBUSH",
+		"BrandId": 21953,
+		"Author": "",
+		"MicroCategoryCode": "pntln1",
+		"MicroCategory": "Casual pants",
+		"MicroCategoryPlural": "Casual pants",
+		"MacroCategoryCode": "pntln",
+		"MacroCategory": "Pants",
+		"MacroCategoryPlural": "Pants",
+		"FullPrice": 805,
+		"DiscountedPrice": 580,
+		"DiscountedPercentage": 27,
+		"FormattedDiscountedPercentage": "27% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "1"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "13561304WW",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_a", "10_d", "10_e", "10_f", "10_r", "11_a", "11_d", "11_e", "11_f", "11_r", "12_a", "12_d", "12_e", "12_f", "12_r", "13_a", "13_d", "13_e", "13_f", "13_r", "14_a", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_e", "8_f", "8_r", "9_a", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "1757",
+		"FormattedFullPrice": "$ 805.00",
+		"FormattedDiscountedPrice": "$ 580.00",
+		"DiscountedPriceEur": 548,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2204_SPRINGESS", "prm_2204_CL"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50260439AF",
+		"Brand": "8 by YOOX",
+		"BrandId": 42641,
+		"Title": "925 SILVER BRACELET",
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"AlternativeMicro": "Silver bracelet",
+		"FullPrice": 110,
+		"DiscountedPrice": 89,
+		"DiscountedPercentage": 19,
+		"FormattedDiscountedPercentage": "19% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "S"
+		}, {
+			"Text": "M"
+		}, {
+			"Text": "L"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50260439AF",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_f", "10_r", "11_d", "11_f", "11_r", "12_d", "12_f", "12_r", "13_d", "13_f", "13_r", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_f", "20_r", "3", "6", "7", "8_d", "8_f", "8_r", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 110.00",
+		"FormattedDiscountedPrice": "$ 89.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 84,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PLV"],
+		"PromoTags": ["prm_2205_RFTW", "prm_2204_SPRINGESS", "prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "14141854HK",
+		"Brand": "BOTTEGA VENETA",
+		"BrandId": 664,
+		"Author": "",
+		"MicroCategoryCode": "pllvr",
+		"MicroCategory": "Sweater",
+		"MicroCategoryPlural": "Sweaters",
+		"MacroCategoryCode": "mglr",
+		"MacroCategory": "Sweaters and Sweatshirts",
+		"MacroCategoryPlural": "Sweaters and Sweatshirts",
+		"FullPrice": 2176,
+		"DiscountedPrice": 1381,
+		"DiscountedPercentage": 36,
+		"FormattedDiscountedPercentage": "36% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "XS"
+		}, {
+			"Text": "S"
+		}, {
+			"Text": "M"
+		}, {
+			"Text": "L"
+		}],
+		"Colors": [{
+			"Id": 70,
+			"Cod10": "14141854HK",
+			"Description": "Dark brown",
+			"Rgb": "7A485E",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 2,176.00",
+		"FormattedDiscountedPrice": "$ 1,381.00",
+		"DiscountedPriceEur": 1306,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17191018LC",
+		"Brand": "GCDS",
+		"BrandId": 23212,
+		"Author": "",
+		"MicroCategoryCode": "snkrs5",
+		"MicroCategory": "Sneakers",
+		"MicroCategoryPlural": "Sneakers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 437,
+		"DiscountedPrice": 437,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "6"
+		}, {
+			"Text": "7"
+		}, {
+			"Text": "8"
+		}, {
+			"Text": "9"
+		}, {
+			"Text": "10"
+		}, {
+			"Text": "11"
+		}, {
+			"Text": "12"
+		}],
+		"Colors": [{
+			"Id": 8,
+			"Cod10": "17191018LC",
+			"Description": "Transparent",
+			"Rgb": "ffffff",
+			"ImageFormats": ["1", "10_a", "10_d", "10_f", "10_r", "11_a", "11_d", "11_f", "11_r", "12_a", "12_d", "12_f", "12_r", "13_a", "13_d", "13_f", "13_r", "14_a", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_f", "8_r", "9_a", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 437.00",
+		"FormattedDiscountedPrice": "$ 437.00",
+		"DiscountedPriceEur": 413,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["FIS"],
+		"PromoTags": ["prm_2205_TOPBRAND", "prm_2204_SPRINGESS"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "41980950FO",
+		"Brand": "BALENCIAGA",
+		"BrandId": 221,
+		"Author": "",
+		"MicroCategoryCode": "gbbtt",
+		"MicroCategory": "Jacket",
+		"MicroCategoryPlural": "Jackets",
+		"MacroCategoryCode": "cpspll",
+		"MacroCategory": "Coats & Jackets",
+		"MacroCategoryPlural": "Coats & Jackets",
+		"FullPrice": 3934,
+		"DiscountedPrice": 2760,
+		"DiscountedPercentage": 29,
+		"FormattedDiscountedPercentage": "29% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "40"
+		}, {
+			"Text": "42"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "41980950FO",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_a", "10_e", "10_f", "10_r", "11_a", "11_e", "11_f", "11_r", "12_a", "12_e", "12_f", "12_r", "13_a", "13_e", "13_f", "13_r", "14_a", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_e", "8_f", "8_r", "9_a", "9_e", "9_f", "9_r", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 3,934.00",
+		"FormattedDiscountedPrice": "$ 2,760.00",
+		"DiscountedPriceEur": 2611,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17160968JB",
+		"Brand": "VERSACE",
+		"BrandId": 1889,
+		"Author": "",
+		"MicroCategoryCode": "mcssn",
+		"MicroCategory": "Loafers",
+		"MicroCategoryPlural": "Loafers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 916,
+		"DiscountedPrice": 483,
+		"DiscountedPercentage": 47,
+		"FormattedDiscountedPercentage": "47% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "6"
+		}, {
+			"Text": "6.5"
+		}, {
+			"Text": "8.5"
+		}, {
+			"Text": "12"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "17160968JB",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "60",
+		"FormattedFullPrice": "$ 916.00",
+		"FormattedDiscountedPrice": "$ 483.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 457,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50266409JB",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Title": "GOLD PLATED CROCHET NECKLACE",
+		"Author": "",
+		"MicroCategoryCode": "clln",
+		"MicroCategory": "Necklace",
+		"MicroCategoryPlural": "Necklaces",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 258,
+		"DiscountedPrice": 258,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "50266409JB",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 258.00",
+		"FormattedDiscountedPrice": "$ 258.00",
+		"DiscountedPriceEur": 244,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": ["prm_2205_RFTW", "prm_2204_SPRINGESS"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "49736730AT",
+		"Brand": "DOLCE & GABBANA",
+		"BrandId": 25,
+		"Author": "",
+		"MicroCategoryCode": "bt1",
+		"MicroCategory": "Suits",
+		"MicroCategoryPlural": "Suit",
+		"MacroCategoryCode": "bt",
+		"MacroCategory": "Suits and Blazers",
+		"MacroCategoryPlural": "Suits and Blazers",
+		"FullPrice": 4726,
+		"DiscountedPrice": 2405,
+		"DiscountedPercentage": 49,
+		"FormattedDiscountedPercentage": "49% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "46"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "49736730AT",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_a", "10_d", "10_e", "10_f", "10_r", "11_a", "11_d", "11_e", "11_f", "11_r", "12_a", "12_d", "12_e", "12_f", "12_r", "13_a", "13_d", "13_e", "13_f", "13_r", "14_a", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_e", "8_f", "8_r", "9_a", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "68",
+		"FormattedFullPrice": "$ 4,726.00",
+		"FormattedDiscountedPrice": "$ 2,405.00",
+		"DiscountedPriceEur": 2275,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "16085395MO",
+		"Brand": "BOTTEGA VENETA",
+		"BrandId": 664,
+		"Author": "",
+		"MicroCategoryCode": "sprbt",
+		"MicroCategory": "Full-length jacket",
+		"MicroCategoryPlural": "Full-length jackets",
+		"MacroCategoryCode": "cpspll",
+		"MacroCategory": "Coats & Jackets",
+		"MacroCategoryPlural": "Coats & Jackets",
+		"FullPrice": 2642,
+		"DiscountedPrice": 1325,
+		"DiscountedPercentage": 49,
+		"FormattedDiscountedPercentage": "49% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "34"
+		}, {
+			"Text": "36"
+		}, {
+			"Text": "38"
+		}, {
+			"Text": "40"
+		}],
+		"Colors": [{
+			"Id": 36,
+			"Cod10": "16085395MO",
+			"Description": "Steel grey",
+			"Rgb": "55595D",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 32,
+			"Cod10": "16085395GV",
+			"Description": "Beige",
+			"Rgb": "CDBD9A",
+			"ImageFormats": ["1", "10_a", "10_e", "10_f", "10_r", "11_a", "11_e", "11_f", "11_r", "12_a", "12_e", "12_f", "12_r", "13_a", "13_e", "13_f", "13_r", "14_a", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_e", "8_f", "8_r", "9_a", "9_e", "9_f", "9_r", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "354",
+		"FormattedFullPrice": "$ 2,642.00",
+		"FormattedDiscountedPrice": "$ 1,325.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 1253,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50266386KO",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Title": "POLISHED EARCUFF",
+		"Author": "",
+		"MicroCategoryCode": "rcchn1",
+		"MicroCategory": "Ear cuff or single earring",
+		"MicroCategoryPlural": "Ear cuff or single earring",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 169,
+		"DiscountedPrice": 169,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50266386KO",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 169.00",
+		"FormattedDiscountedPrice": "$ 169.00",
+		"DiscountedPriceEur": 159,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": ["prm_2204_SPRINGESS", "prm_2205_RFTW"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50251434PE",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Title": "LINK CHAIN",
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 545,
+		"DiscountedPrice": 545,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "S"
+		}, {
+			"Text": "M"
+		}, {
+			"Text": "L"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50251434PE",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 545.00",
+		"FormattedDiscountedPrice": "$ 545.00",
+		"DiscountedPriceEur": 515,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": ["prm_2205_RFTW", "prm_2204_SPRINGESS"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50214158FI",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 402,
+		"DiscountedPrice": 402,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "S"
+		}, {
+			"Text": "M"
+		}, {
+			"Text": "L"
+		}],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "50214158FI",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 402.00",
+		"FormattedDiscountedPrice": "$ 402.00",
+		"DiscountedPriceEur": 380,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": ["prm_2204_SPRINGESS", "prm_2205_RFTW"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "16076733WU",
+		"Brand": "MAISON MARGIELA",
+		"BrandId": 50,
+		"Author": "",
+		"MicroCategoryCode": "cpptt",
+		"MicroCategory": "Coat",
+		"MicroCategoryPlural": "Coats",
+		"MacroCategoryCode": "cpspll",
+		"MacroCategory": "Coats & Jackets",
+		"MacroCategoryPlural": "Coats & Jackets",
+		"FullPrice": 4217,
+		"DiscountedPrice": 2316,
+		"DiscountedPercentage": 45,
+		"FormattedDiscountedPercentage": "45% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "40"
+		}, {
+			"Text": "42"
+		}],
+		"Colors": [{
+			"Id": 42681,
+			"Cod10": "16076733WU",
+			"Description": "Sage green",
+			"Rgb": "85B09A",
+			"ImageFormats": ["1", "10_a", "10_e", "10_f", "10_r", "11_a", "11_e", "11_f", "11_r", "12_a", "12_e", "12_f", "12_r", "13_a", "13_e", "13_f", "13_r", "14_a", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_e", "8_f", "8_r", "9_a", "9_e", "9_f", "9_r", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 4,217.00",
+		"FormattedDiscountedPrice": "$ 2,316.00",
+		"DiscountedPriceEur": 2191,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50237914CI",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Title": "GOLD CROSS SILVER 925",
+		"Author": "",
+		"MicroCategoryCode": "clln",
+		"MicroCategory": "Necklace",
+		"MicroCategoryPlural": "Necklaces",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 225,
+		"DiscountedPrice": 225,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "50237914CI",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "1756",
+		"FormattedFullPrice": "$ 225.00",
+		"FormattedDiscountedPrice": "$ 225.00",
+		"DiscountedPriceEur": 212,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50264277TC",
+		"Brand": "BOTTEGA VENETA",
+		"BrandId": 664,
+		"Author": "",
+		"MicroCategoryCode": "gmll",
+		"MicroCategory": "Cufflinks and Tie Clips",
+		"MicroCategoryPlural": "Cufflinks and Tie Clips",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 776,
+		"DiscountedPrice": 407,
+		"DiscountedPercentage": 47,
+		"FormattedDiscountedPercentage": "47% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 13,
+			"Cod10": "50264277TC",
+			"Description": "Fuchsia",
+			"Rgb": "B92A74",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}, {
+			"Id": 35,
+			"Cod10": "50264277UW",
+			"Description": "Azure",
+			"Rgb": "4872BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "52",
+		"FormattedFullPrice": "$ 776.00",
+		"FormattedDiscountedPrice": "$ 407.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 385,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17037729AK",
+		"Brand": "DOLCE & GABBANA",
+		"BrandId": 25,
+		"Author": "",
+		"MicroCategoryCode": "nfrdt",
+		"MicroCategory": "Flip flops",
+		"MicroCategoryPlural": "Flip flops",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 349,
+		"DiscountedPrice": 219,
+		"DiscountedPercentage": 37,
+		"FormattedDiscountedPercentage": "37% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "10"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "17037729AK",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "68",
+		"FormattedFullPrice": "$ 349.00",
+		"FormattedDiscountedPrice": "$ 219.00",
+		"DiscountedPriceEur": 207,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "11721877XS",
+		"Brand": "GUCCI",
+		"BrandId": 42,
+		"Author": "",
+		"MicroCategoryCode": "snkrs5",
+		"MicroCategory": "Sneakers",
+		"MicroCategoryPlural": "Sneakers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 1195,
+		"DiscountedPrice": 896,
+		"DiscountedPercentage": 25,
+		"FormattedDiscountedPercentage": "25% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "6.5"
+		}, {
+			"Text": "7"
+		}],
+		"Colors": [{
+			"Id": 18,
+			"Cod10": "11721877XS",
+			"Description": "Blue",
+			"Rgb": "214377",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 57,
+			"Cod10": "11721877AM",
+			"Description": "Ocher",
+			"Rgb": "CAA24F",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "1757",
+		"FormattedFullPrice": "$ 1,195.00",
+		"FormattedDiscountedPrice": "$ 896.00",
+		"DiscountedPriceEur": 847,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK", "FWB"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "11636128ED",
+		"Brand": "GUCCI",
+		"BrandId": 42,
+		"Author": "",
+		"MicroCategoryCode": "snkrs5",
+		"MicroCategory": "Sneakers",
+		"MicroCategoryPlural": "Sneakers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 951,
+		"DiscountedPrice": 610,
+		"DiscountedPercentage": 35,
+		"FormattedDiscountedPercentage": "35% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "10.5"
+		}, {
+			"Text": "14.5"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "11636128ED",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "1757",
+		"FormattedFullPrice": "$ 951.00",
+		"FormattedDiscountedPrice": "$ 610.00",
+		"DiscountedPriceEur": 577,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17133732MJ",
+		"Brand": "BALENCIAGA",
+		"BrandId": 221,
+		"Author": "",
+		"MicroCategoryCode": "stvlttmn",
+		"MicroCategory": "Boots",
+		"MicroCategoryPlural": "Boots",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 1180,
+		"DiscountedPrice": 853,
+		"DiscountedPercentage": 27,
+		"FormattedDiscountedPercentage": "27% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "10"
+		}, {
+			"Text": "11"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "17133732MJ",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "68",
+		"FormattedFullPrice": "$ 1,180.00",
+		"FormattedDiscountedPrice": "$ 853.00",
+		"DiscountedPriceEur": 807,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": [],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "13559244ML",
+		"Brand": "BOTTEGA VENETA",
+		"BrandId": 664,
+		"Author": "",
+		"MicroCategoryCode": "shrts",
+		"MicroCategory": "Shorts & Bermuda",
+		"MicroCategoryPlural": "Shorts & Bermuda",
+		"MacroCategoryCode": "pntln",
+		"MacroCategory": "Pants",
+		"MacroCategoryPlural": "Pants",
+		"FullPrice": 856,
+		"DiscountedPrice": 495,
+		"DiscountedPercentage": 42,
+		"FormattedDiscountedPercentage": "42% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "30"
+		}],
+		"Colors": [{
+			"Id": 70,
+			"Cod10": "13559244ML",
+			"Description": "Dark brown",
+			"Rgb": "7A485E",
+			"ImageFormats": ["1", "10_a", "10_d", "10_f", "10_r", "11_a", "11_d", "11_f", "11_r", "12_a", "12_d", "12_f", "12_r", "13_a", "13_d", "13_f", "13_r", "14_a", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_f", "8_r", "9_a", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "1756",
+		"FormattedFullPrice": "$ 856.00",
+		"FormattedDiscountedPrice": "$ 495.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 468,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2204_SPRINGESS", "prm_NEWREDUCTION"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17058692US",
+		"Brand": "BALENCIAGA",
+		"BrandId": 221,
+		"Author": "",
+		"MicroCategoryCode": "snkrs5",
+		"MicroCategory": "Sneakers",
+		"MicroCategoryPlural": "Sneakers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 824,
+		"DiscountedPrice": 378,
+		"DiscountedPercentage": 54,
+		"FormattedDiscountedPercentage": "54% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "6"
+		}, {
+			"Text": "7"
+		}, {
+			"Text": "8"
+		}],
+		"Colors": [{
+			"Id": 11,
+			"Cod10": "17058692US",
+			"Description": "Red",
+			"Rgb": "A40000",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "75",
+		"FormattedFullPrice": "$ 824.00",
+		"FormattedDiscountedPrice": "$ 378.00",
+		"DiscountedPriceEur": 357,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "11375486TF",
+		"Brand": "DOLCE & GABBANA",
+		"BrandId": 25,
+		"Author": "",
+		"MicroCategoryCode": "snkrs5",
+		"MicroCategory": "Sneakers",
+		"MicroCategoryPlural": "Sneakers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 706,
+		"DiscountedPrice": 470,
+		"DiscountedPercentage": 33,
+		"FormattedDiscountedPercentage": "33% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "6"
+		}, {
+			"Text": "11.5"
+		}],
+		"Colors": [{
+			"Id": 29,
+			"Cod10": "11375486TF",
+			"Description": "Gold",
+			"Rgb": "988F60",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 28,
+			"Cod10": "11375486JX",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "1756",
+		"FormattedFullPrice": "$ 706.00",
+		"FormattedDiscountedPrice": "$ 470.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 444,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_TOPBRAND", "prm_2204_SPRINGESS"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "13714965HE",
+		"Brand": "VERSACE",
+		"BrandId": 1889,
+		"Author": "",
+		"MicroCategoryCode": "shrts",
+		"MicroCategory": "Shorts & Bermuda",
+		"MicroCategoryPlural": "Shorts & Bermuda",
+		"MacroCategoryCode": "pntln",
+		"MacroCategory": "Pants",
+		"MacroCategoryPlural": "Pants",
+		"FullPrice": 1420,
+		"DiscountedPrice": 501,
+		"DiscountedPercentage": 64,
+		"FormattedDiscountedPercentage": "64% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "32"
+		}, {
+			"Text": "34"
+		}, {
+			"Text": "38"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "13714965HE",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_a", "10_d", "10_f", "10_r", "11_a", "11_d", "11_f", "11_r", "12_a", "12_d", "12_f", "12_r", "13_a", "13_d", "13_f", "13_r", "14_a", "14_d", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_d", "20_f", "20_r", "3", "6", "7", "8_a", "8_d", "8_f", "8_r", "9_a", "9_d", "9_f", "9_r", "det"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "52",
+		"FormattedFullPrice": "$ 1,420.00",
+		"FormattedDiscountedPrice": "$ 501.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 474,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_RFTW", "prm_NEWREDUCTION", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "46797920IC",
+		"Brand": "VERSACE",
+		"BrandId": 1889,
+		"Author": "",
+		"MicroCategoryCode": "cntrnpll",
+		"MicroCategory": "Leather belt",
+		"MicroCategoryPlural": "Leather belts",
+		"MacroCategoryCode": "cntr2",
+		"MacroCategory": "Belts",
+		"MacroCategoryPlural": "Belts",
+		"FullPrice": 490,
+		"DiscountedPrice": 283,
+		"DiscountedPercentage": 42,
+		"FormattedDiscountedPercentage": "42% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "28"
+		}, {
+			"Text": "42"
+		}, {
+			"Text": "43"
+		}, {
+			"Text": "43.5"
+		}, {
+			"Text": "45.5"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "46797920IC",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_f", "11_f", "12_f", "13_f", "14_f", "16_f", "18_f", "19_f", "2", "20_f", "3", "7", "8_f", "9_f"]
+		}],
+		"HasFlipSide": false,
+		"HasModelImage": false,
+		"SalesLineId": "60",
+		"FormattedFullPrice": "$ 490.00",
+		"FormattedDiscountedPrice": "$ 283.00",
+		"DiscountedPriceEur": 267,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17121253FW",
+		"Brand": "BOTTEGA VENETA",
+		"BrandId": 664,
+		"Author": "",
+		"MicroCategoryCode": "mcssn",
+		"MicroCategory": "Loafers",
+		"MicroCategoryPlural": "Loafers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 910,
+		"DiscountedPrice": 625,
+		"DiscountedPercentage": 31,
+		"FormattedDiscountedPercentage": "31% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "5.5"
+		}, {
+			"Text": "6"
+		}, {
+			"Text": "6.5"
+		}, {
+			"Text": "7"
+		}, {
+			"Text": "8"
+		}, {
+			"Text": "8.5"
+		}, {
+			"Text": "9"
+		}, {
+			"Text": "9.5"
+		}],
+		"Colors": [{
+			"Id": 7,
+			"Cod10": "17121253FW",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "46",
+		"FormattedFullPrice": "$ 910.00",
+		"FormattedDiscountedPrice": "$ 625.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 591,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2205_RFTW"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50236085ER",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Author": "",
+		"MicroCategoryCode": "clln",
+		"MicroCategory": "Necklace",
+		"MicroCategoryPlural": "Necklaces",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 168,
+		"DiscountedPrice": 168,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50236085ER",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "2373",
+		"FormattedFullPrice": "$ 168.00",
+		"FormattedDiscountedPrice": "$ 168.00",
+		"DiscountedPriceEur": 158,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": ["prm_2205_RFTW", "prm_2204_SPRINGESS"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "49722521TI",
+		"Brand": "BRUNELLO CUCINELLI",
+		"BrandId": 942,
+		"Author": "",
+		"MicroCategoryCode": "gcc",
+		"MicroCategory": "Blazer",
+		"MicroCategoryPlural": "Blazers",
+		"MacroCategoryCode": "cpspll",
+		"MacroCategory": "Coats & Jackets",
+		"MacroCategoryPlural": "Coats & Jackets",
+		"FullPrice": 4685,
+		"DiscountedPrice": 2812,
+		"DiscountedPercentage": 39,
+		"FormattedDiscountedPercentage": "39% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "38"
+		}, {
+			"Text": "40"
+		}, {
+			"Text": "42"
+		}],
+		"Colors": [{
+			"Id": 40,
+			"Cod10": "49722521TI",
+			"Description": "Ivory",
+			"Rgb": "ECEACC",
+			"ImageFormats": ["1", "10_a", "10_e", "10_f", "10_r", "11_a", "11_e", "11_f", "11_r", "12_a", "12_e", "12_f", "12_r", "13_a", "13_e", "13_f", "13_r", "14_a", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_e", "8_f", "8_r", "9_a", "9_e", "9_f", "9_r", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 42,
+			"Cod10": "49722521AM",
+			"Description": "Camel",
+			"Rgb": "BEA58F",
+			"ImageFormats": ["1", "10_a", "10_e", "10_f", "10_r", "11_a", "11_e", "11_f", "11_r", "12_a", "12_e", "12_f", "12_r", "13_a", "13_e", "13_f", "13_r", "14_a", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_e", "8_f", "8_r", "9_a", "9_e", "9_f", "9_r", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "52",
+		"FormattedFullPrice": "$ 4,685.00",
+		"FormattedDiscountedPrice": "$ 2,812.00",
+		"DiscountedPriceEur": 2660,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_RFTW", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "11769885RP",
+		"Brand": "PRADA",
+		"BrandId": 63,
+		"Author": "",
+		"MicroCategoryCode": "mcssn",
+		"MicroCategory": "Loafers",
+		"MicroCategoryPlural": "Loafers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 583,
+		"DiscountedPrice": 460,
+		"DiscountedPercentage": 21,
+		"FormattedDiscountedPercentage": "21% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "6"
+		}, {
+			"Text": "6.5"
+		}],
+		"Colors": [{
+			"Id": 48,
+			"Cod10": "11769885RP",
+			"Description": "Tan",
+			"Rgb": "8E7562",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}, {
+			"Id": 7,
+			"Cod10": "11769885UM",
+			"Description": "Black",
+			"Rgb": "000000",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "1756",
+		"FormattedFullPrice": "$ 583.00",
+		"FormattedDiscountedPrice": "$ 460.00",
+		"DiscountedPriceEur": 435,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK", "INSEASON"],
+		"PromoTags": ["prm_2204_SPRINGESS", "prm_2204_CL", "prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "49721730XV",
+		"Brand": "DOLCE & GABBANA",
+		"BrandId": 25,
+		"Author": "",
+		"MicroCategoryCode": "bt1",
+		"MicroCategory": "Suits",
+		"MicroCategoryPlural": "Suit",
+		"MacroCategoryCode": "bt",
+		"MacroCategory": "Suits and Blazers",
+		"MacroCategoryPlural": "Suits and Blazers",
+		"FullPrice": 5218,
+		"DiscountedPrice": 2655,
+		"DiscountedPercentage": 49,
+		"FormattedDiscountedPercentage": "49% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "34"
+		}, {
+			"Text": "36"
+		}, {
+			"Text": "38"
+		}, {
+			"Text": "44"
+		}],
+		"Colors": [{
+			"Id": 7620,
+			"Cod10": "49721730XV",
+			"Description": "Platinum",
+			"Rgb": "bebebe",
+			"ImageFormats": ["1", "10_a", "10_e", "10_f", "10_r", "11_a", "11_e", "11_f", "11_r", "12_a", "12_e", "12_f", "12_r", "13_a", "13_e", "13_f", "13_r", "14_a", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_e", "8_f", "8_r", "9_a", "9_e", "9_f", "9_r", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "68",
+		"FormattedFullPrice": "$ 5,218.00",
+		"FormattedDiscountedPrice": "$ 2,655.00",
+		"DiscountedPriceEur": 2512,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "45619031MB",
+		"Brand": "BOTTEGA VENETA",
+		"BrandId": 664,
+		"Author": "",
+		"MicroCategoryCode": "brsmn",
+		"MicroCategory": "Handbag",
+		"MicroCategoryPlural": "Handbags",
+		"MacroCategoryCode": "brs",
+		"MacroCategory": "Handbags",
+		"MacroCategoryPlural": "Handbags",
+		"FullPrice": 1367,
+		"DiscountedPrice": 988,
+		"DiscountedPercentage": 27,
+		"FormattedDiscountedPercentage": "27% OFF",
+		"IsSoldout": false,
+		"Sizes": [],
+		"Colors": [{
+			"Id": 16,
+			"Cod10": "45619031MB",
+			"Description": "Maroon",
+			"Rgb": "71595F",
+			"ImageFormats": ["1", "10_e", "10_f", "10_r", "11_e", "11_f", "11_r", "12_e", "12_f", "12_r", "13_e", "13_f", "13_r", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_e", "20_f", "20_r", "3", "6", "7", "8_e", "8_f", "8_r", "9_e", "9_f", "9_r", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 1,367.00",
+		"FormattedDiscountedPrice": "$ 988.00",
+		"DiscountedPriceEur": 934,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "16102513AF",
+		"Brand": "BOTTEGA VENETA",
+		"BrandId": 664,
+		"Author": "",
+		"MicroCategoryCode": "sprbt",
+		"MicroCategory": "Full-length jacket",
+		"MicroCategoryPlural": "Full-length jackets",
+		"MacroCategoryCode": "cpspll",
+		"MacroCategory": "Coats & Jackets",
+		"MacroCategoryPlural": "Coats & Jackets",
+		"FullPrice": 2499,
+		"DiscountedPrice": 1401,
+		"DiscountedPercentage": 43,
+		"FormattedDiscountedPercentage": "43% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "34"
+		}, {
+			"Text": "36"
+		}],
+		"Colors": [{
+			"Id": 32,
+			"Cod10": "16102513AF",
+			"Description": "Beige",
+			"Rgb": "CDBD9A",
+			"ImageFormats": ["1", "10_a", "10_e", "10_f", "10_r", "11_a", "11_e", "11_f", "11_r", "12_a", "12_e", "12_f", "12_r", "13_a", "13_e", "13_f", "13_r", "14_a", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_e", "8_f", "8_r", "9_a", "9_e", "9_f", "9_r", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "",
+		"FormattedFullPrice": "$ 2,499.00",
+		"FormattedDiscountedPrice": "$ 1,401.00",
+		"DiscountedPriceEur": 1325,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "49716342GB",
+		"Brand": "VERSACE",
+		"BrandId": 1889,
+		"Author": "",
+		"MicroCategoryCode": "gcc",
+		"MicroCategory": "Blazer",
+		"MicroCategoryPlural": "Blazers",
+		"MacroCategoryCode": "cpspll",
+		"MacroCategory": "Coats & Jackets",
+		"MacroCategoryPlural": "Coats & Jackets",
+		"FullPrice": 3445,
+		"DiscountedPrice": 1414,
+		"DiscountedPercentage": 58,
+		"FormattedDiscountedPercentage": "58% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "42"
+		}, {
+			"Text": "46"
+		}],
+		"Colors": [{
+			"Id": 6,
+			"Cod10": "49716342GB",
+			"Description": "White",
+			"Rgb": "FFFFFF",
+			"ImageFormats": ["1", "10_a", "10_e", "10_f", "10_r", "11_a", "11_e", "11_f", "11_r", "12_a", "12_e", "12_f", "12_r", "13_a", "13_e", "13_f", "13_r", "14_a", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_a", "20_e", "20_f", "20_r", "3", "6", "7", "8_a", "8_e", "8_f", "8_r", "9_a", "9_e", "9_f", "9_r", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "1756",
+		"FormattedFullPrice": "$ 3,445.00",
+		"FormattedDiscountedPrice": "$ 1,414.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 1338,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_2204_SPRINGESS", "prm_NEWREDUCTION"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "17160959NP",
+		"Brand": "VERSACE",
+		"BrandId": 1889,
+		"Author": "",
+		"MicroCategoryCode": "mcssn",
+		"MicroCategory": "Loafers",
+		"MicroCategoryPlural": "Loafers",
+		"MacroCategoryCode": "clztr",
+		"MacroCategory": "Footwear",
+		"MacroCategoryPlural": "Footwear",
+		"FullPrice": 988,
+		"DiscountedPrice": 464,
+		"DiscountedPercentage": 53,
+		"FormattedDiscountedPercentage": "53% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "6"
+		}, {
+			"Text": "6.5"
+		}, {
+			"Text": "7"
+		}],
+		"Colors": [{
+			"Id": 70,
+			"Cod10": "17160959NP",
+			"Description": "Dark brown",
+			"Rgb": "7A485E",
+			"ImageFormats": ["1", "10_d", "10_e", "10_f", "10_r", "11_d", "11_e", "11_f", "11_r", "12_d", "12_e", "12_f", "12_r", "13_d", "13_e", "13_f", "13_r", "14_d", "14_e", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_d", "20_e", "20_f", "20_r", "3", "6", "7", "8_d", "8_e", "8_f", "8_r", "9_d", "9_e", "9_f", "9_r", "det", "shwrmbig", "shwrmsmall"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": true,
+		"SalesLineId": "1757",
+		"FormattedFullPrice": "$ 988.00",
+		"FormattedDiscountedPrice": "$ 464.00",
+		"BadgeSearchResult": {
+			"IsActive": true,
+			"Description": "BADGE NEW REDUCTIONS 04/04 10:00am WW GR_UK_ROW_US_ROW123_HK_NL_NO_BE_DK_CH",
+			"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/9180050c03bd792b3266d8d5be65a127.png"
+		},
+		"DiscountedPriceEur": 439,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["STOCK"],
+		"PromoTags": ["prm_NEWREDUCTION", "prm_2204_SPRINGESS"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50201369AJ",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 223,
+		"DiscountedPrice": 223,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "S"
+		}, {
+			"Text": "M"
+		}, {
+			"Text": "L"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50201369AJ",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "75",
+		"FormattedFullPrice": "$ 223.00",
+		"FormattedDiscountedPrice": "$ 223.00",
+		"DiscountedPriceEur": 211,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": ["prm_2205_RFTW"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "49566802UK",
+		"Brand": "GUCCI",
+		"BrandId": 42,
+		"Author": "",
+		"MicroCategoryCode": "gcc",
+		"MicroCategory": "Blazer",
+		"MicroCategoryPlural": "Blazers",
+		"MacroCategoryCode": "cpspll",
+		"MacroCategory": "Coats & Jackets",
+		"MacroCategoryPlural": "Coats & Jackets",
+		"FullPrice": 3367,
+		"DiscountedPrice": 2525,
+		"DiscountedPercentage": 25,
+		"FormattedDiscountedPercentage": "25% OFF",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "36"
+		}, {
+			"Text": "38"
+		}],
+		"Colors": [{
+			"Id": 20,
+			"Cod10": "49566802UK",
+			"Description": "Dark blue",
+			"Rgb": "3A476D",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "1757",
+		"FormattedFullPrice": "$ 3,367.00",
+		"FormattedDiscountedPrice": "$ 2,525.00",
+		"DiscountedPriceEur": 2389,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["FWB", "STOCK"],
+		"PromoTags": ["prm_2205_TOPBRAND"],
+		"Is3rdParty": false
+	}, {
+		"Cod10": "50246862WW",
+		"Brand": "EMANUELE BICOCCHI",
+		"BrandId": 12646,
+		"Title": "LITTLE SKULL BRACELET",
+		"Author": "",
+		"MicroCategoryCode": "brccl",
+		"MicroCategory": "Bracelet",
+		"MicroCategoryPlural": "Bracelets",
+		"MacroCategoryCode": "gll",
+		"MacroCategory": "Jewelry",
+		"MacroCategoryPlural": "Jewelry",
+		"FullPrice": 175,
+		"DiscountedPrice": 175,
+		"DiscountedPercentage": 0,
+		"FormattedDiscountedPercentage": "",
+		"IsSoldout": false,
+		"Sizes": [{
+			"Text": "S"
+		}],
+		"Colors": [{
+			"Id": 28,
+			"Cod10": "50246862WW",
+			"Description": "Silver",
+			"Rgb": "ABB2BA",
+			"ImageFormats": ["1", "10_f", "10_r", "11_f", "11_r", "12_f", "12_r", "13_f", "13_r", "14_f", "14_r", "16_f", "18_f", "19_f", "2", "20_f", "20_r", "3", "6", "7", "8_f", "8_r", "9_f", "9_r"]
+		}],
+		"HasFlipSide": true,
+		"HasModelImage": false,
+		"SalesLineId": "1687",
+		"FormattedFullPrice": "$ 175.00",
+		"FormattedDiscountedPrice": "$ 175.00",
+		"DiscountedPriceEur": 165,
+		"HasAlternativeImage": false,
+		"ProjectCodes": ["PCM"],
+		"PromoTags": ["prm_2205_RFTW"],
+		"Is3rdParty": false
+	}],
+	"SearchRequest": {
+		"Tags": [],
+		"Department": "mmrc_2205yxgl",
+		"InheritedMicroDesignerIds": "",
+		"MacroColorIds": "",
+		"SizeIds": "",
+		"SortId": 0,
+		"SortValue": "",
+		"Season": "X",
+		"Gender": "U",
+		"Page": 3,
+		"ProductsPerPage": 40,
+		"TextSearch": "",
+		"MicroDesigners": [],
+		"Attributes": {},
+		"SelectedCategories": [],
+		"HasCustomAttributeselected": false,
+		"MoreThanOneDesignerIsSelected": false
+	},
+	"Area": "fashion",
+	"Analytics": {
+		"SelectedBrand": "",
+		"TypedTextSearch": "",
+		"TotalPages": "13",
+		"Color": "",
+		"Season": "X",
+		"ItemPerPage": "40",
+		"SelectedPage": "3",
+		"TotalItems": "518",
+		"Url": "/us/men/shoponline?dept=mmrc_2205yxgl&gender=U&page=3&season=X"
+	},
+	"BrandBannerActionUrl": "",
+	"MobileFriendlyUrl": "https://www.yoox.com/YooxCore.API/1.0/YOOX_US/SearchResults",
+	"ParentDepartment": "men",
+	"Department": "mmrc_2205yxgl",
+	"ErrorCode": 0
+}

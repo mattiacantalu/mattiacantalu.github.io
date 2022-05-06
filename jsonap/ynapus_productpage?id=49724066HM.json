@@ -1,0 +1,284 @@
+{
+	"ImageUrls": {
+		"Normal": ["https://mobile.yoox.com/images/items/49/49724066-COLOR-_14_f.jpg?width=550&height=700&impolicy=native&gravity=Center", "https://mobile.yoox.com/images/items/49/49724066-COLOR-_14_r.jpg?width=550&height=700&impolicy=native&gravity=Center", "https://mobile.yoox.com/images/items/49/49724066-COLOR-_14_e.jpg?width=550&height=700&impolicy=native&gravity=Center", "https://mobile.yoox.com/images/items/49/49724066-COLOR-_14_a.jpg?width=550&height=700&impolicy=native&gravity=Center"],
+		"Zoom": ["https://mobile.yoox.com/images/items/49/49724066-COLOR-_14_f.jpg?width=1571&height=2000&impolicy=native&gravity=Center", "https://mobile.yoox.com/images/items/49/49724066-COLOR-_14_r.jpg?width=1571&height=2000&impolicy=native&gravity=Center", "https://mobile.yoox.com/images/items/49/49724066-COLOR-_14_e.jpg?width=1571&height=2000&impolicy=native&gravity=Center", "https://mobile.yoox.com/images/items/49/49724066-COLOR-_14_a.jpg?width=1571&height=2000&impolicy=native&gravity=Center"],
+		"Soldout": "https://mobile.yoox.com/images/items/49/49724066_14_f.jpg?width=550&height=700&impolicy=native&gravity=Center"
+	},
+	"ItemDescriptions": {
+		"SizeInfo": "The size indicated on the label is <b>@@LABELSIZE@@</b>.",
+		"ProductInfo": ["Composition: 50% Silk, 50% Polyester", "Details: satin, plain weave, laminated effect, no appliqués, two-tone, lapel collar, single-breasted , long sleeves, fully lined, multipockets, frogs", "Length: 28.47 inches", "Product code: 49724066-COLOR-"],
+		"BrandInfo": "",
+		"ShippingInfo": {
+			"ShippingCosts": [{
+				"Title": "Shipping",
+				"Cells": [{
+					"Values": ["Standard"]
+				}, {
+					"Values": ["Express"]
+				}]
+			}, {
+				"Title": "Times",
+				"Cells": [{
+					"Values": ["12-15 business days"]
+				}, {
+					"Values": ["2-4 business days"]
+				}]
+			}, {
+				"Title": "Cost",
+				"Cells": [{
+					"Values": ["$ 9.95"]
+				}, {
+					"Values": ["$ 19.95"]
+				}]
+			}],
+			"ShippingNotes": [{
+				"Title": "",
+				"Notes": ["FREE STANDARD SHIPPING ON ORDERS OVER $100", "<br />Delivery times begin one business day after the order is placed. This is due to the time difference between North America and Italy, where most of our products are shipped from.<br />You will receive an e-mail containing your Tracking Number once your package has been shipped from our U.S. distribution center. Visit the <a href=\"/cms/help/orderdetails.asp\">Track your order</a> section to check the most up-to-date status of your order."],
+				"StripHtmlTags": true
+			}, {
+				"Title": "",
+				"Notes": ["<br /><b>Return Service:</b><br /><br />You can return or exchange one or more items within <b>60 days</b> of the delivery date. Shipping your return back is quick and easy with the pre-paid label included in the package. Find more information in the <a href=\"https://www.yoox.com/customercare/topic/yoox_ccid604300000001048\">Returns and Refunds</a> Section."],
+				"StripHtmlTags": true
+			}]
+		}
+	},
+	"SocialDetails": {
+		"ItemLabel": "DOLCE & GABBANA Blazer",
+		"ItemImageUrl": "https://mobile.yoox.com/images/items/49/49724066-COLOR-_14_f.jpg?width=387&height=490&impolicy=native&gravity=Center",
+		"ItemUrl": "https://www.yoox.com/US/49724066-COLOR-/item?dept=mmrc_2205yxgl",
+		"Facebook": {
+			"ItemUrl": "https://www.yoox.com/US/49724066-COLOR-/item?dept=mmrc_2205yxgl&utm_source=facebook_share&utm_medium=referral&utm_campaign=share&tp=39349"
+		},
+		"Twitter": {
+			"ItemUrl": "https://www.yoox.com/US/49724066-COLOR-/item?dept=mmrc_2205yxgl&utm_source=twitter_share&utm_medium=referral&utm_campaign=share&tp=39347"
+		},
+		"Google": {
+			"ItemUrl": "https://www.yoox.com/US/49724066-COLOR-/item?dept=mmrc_2205yxgl&utm_source=gplus_share&utm_medium=referral&utm_campaign=share&tp=42053"
+		},
+		"Pinterest": {
+			"ItemUrl": "https://www.yoox.com/US/49724066-COLOR-/item?dept=mmrc_2205yxgl&utm_source=pinterest_share&utm_medium=referral&utm_campaign=share&tp=39348"
+		}
+	},
+	"RelatedSearches": {
+		"TapCategory": {
+			"Attributes": {
+				"ctgr": ["gcc"]
+			},
+			"Department": "mmrc_2205yxgl",
+			"Gender": "U",
+			"NumItems": 0
+		},
+		"TapBrand": {
+			"Attributes": {
+				"dsgnrs": ["25"]
+			},
+			"Department": "mmrc_2205yxgl",
+			"Gender": "U",
+			"NumItems": 0
+		}
+	},
+	"CommonFormattedPrices": {
+		"Discounted": {
+			"ValueCent": 196300,
+			"Currency": "$"
+		},
+		"Full": {
+			"ValueCent": 385700,
+			"Currency": "$"
+		},
+		"Yoox": {
+			"ValueCent": 196300,
+			"Currency": "$"
+		},
+		"DiscountedPercentage": 49,
+		"FormattedDiscountedPercentage": "49% OFF"
+	},
+	"ParentDepartment": "men",
+	"MacroCategoryEn": "SUITS and CO-ORDS",
+	"Links": [{
+		"HRef": "https://secure.api.yoox.biz/YooxCore.API/1.0/YOOX_US/Items/TotalLook?code10=49724066HM&dept=mmrc_2205yxgl&gender=U&season=P&NumItems=5",
+		"Rel": "related",
+		"Title": "total-look",
+		"Templated": false,
+		"Type": "total-look",
+		"Attributes": {}
+	}, {
+		"HRef": "https://secure.api.yoox.biz/YooxCore.API/1.0/YOOX_US/Items/More?code10=49724066HM&dept=mmrc_2205yxgl&brandId=25&gender=U",
+		"Rel": "related",
+		"Title": "more-items",
+		"Templated": false,
+		"Type": "more-items",
+		"Attributes": {}
+	}, {
+		"HRef": "https://secure.api.yoox.biz/YooxCore.API/1.0/YOOX_US/Monetate/More?code10=49724066HM&dept=mmrc_2205yxgl&brandId=25&gender=U",
+		"Rel": "related",
+		"Title": "more-items-kibo",
+		"Templated": false,
+		"Type": "more-items-kibo",
+		"Attributes": {}
+	}],
+	"PriceInfo": {
+		"Title": "ESTIMATED RETAIL PRICE",
+		"Description": "The price indicated is an estimate of the in-store price, based on the period when the collection was launched. It is calculated according to the price shown on the tag of the item or the specific indications of the brand. When this information is not available, YOOX estimates the retail price based on the average price of similar items or through market comparisons."
+	},
+	"VatInfo": {
+		"IsIncluded": false,
+		"Label": ""
+	},
+	"Cod10": "49724066HM",
+	"Department": "mmrc_2205yxgl",
+	"Quantity": 4,
+	"Brand": {
+		"Name": "DOLCE & GABBANA",
+		"Url": "/us/men/shoponline/dolce & gabbana_d#/d=25&dept=mmrc_2205yxgl&gender=U",
+		"Rel": "/us/men/shoponline/dolce & gabbana_d#/d=25&dept=mmrc_2205yxgl&gender=U",
+		"Attributes": {
+			"dsgnrs": ["DOLCE & GABBANA"]
+		}
+	},
+	"BrandId": 25,
+	"Category": {
+		"Name": "Blazer",
+		"Url": "/us/men/shoponline#/c=93&dept=mmrc_2205yxgl&gender=U",
+		"Rel": "/us/men/shoponline?c=93&dept=mmrc_2205yxgl&gender=U",
+		"Attributes": {
+			"ctgr": ["gcc"]
+		}
+	},
+	"Title": {
+		"Attributes": {}
+	},
+	"MacroCategory": "Coats & Jackets",
+	"MicroCategoryPlural": "Suit jackets",
+	"Author": {
+		"Attributes": {}
+	},
+	"Price": {
+		"FullPrice": 3857.0,
+		"DiscountedPrice": 1963.0,
+		"YooxPrice": 1963.0,
+		"DiscountedPercentage": 49,
+		"DiscountedPriceEur": 1857.49
+	},
+	"FormattedPrice": {
+		"FullPrice": "$ 3,857.00",
+		"DiscountedPrice": "$ 1,963.00",
+		"YooxPrice": "$ 1,963.00",
+		"DiscountedPercentage": "49% OFF"
+	},
+	"HasInfoPrice": true,
+	"HasCustomInfoPriceLayer": false,
+	"Colors": [{
+		"ColorId": 29,
+		"ColorCode": "HM",
+		"Code10": "49724066HM",
+		"Name": "Gold",
+		"Rgb": "988F60"
+	}],
+	"Sizes": [{
+		"Id": 4,
+		"Name": "40",
+		"IsoTwoLetterCountryCode": "",
+		"DefaultSizeLabel": "40 (suit)",
+		"DefaultClassFamily": "suit",
+		"DefaultText": "40",
+		"AlternativeSizeLabel": "50 (IT)",
+		"AlternativeClassFamily": "IT",
+		"AlternativeText": "50"
+	}, {
+		"Id": 5,
+		"Name": "42",
+		"IsoTwoLetterCountryCode": "",
+		"DefaultSizeLabel": "42 (suit)",
+		"DefaultClassFamily": "suit",
+		"DefaultText": "42",
+		"AlternativeSizeLabel": "52 (IT)",
+		"AlternativeClassFamily": "IT",
+		"AlternativeText": "52"
+	}],
+	"HasValidSizes": true,
+	"HasValidColors": true,
+	"HasFastDelivery": false,
+	"ColorSizeQty": [{
+		"ColorCode": "HM",
+		"SizeId": 4,
+		"Quantity": 2,
+		"Sku": "0400385503712",
+		"Gtin": "0400385503712"
+	}, {
+		"ColorCode": "HM",
+		"SizeId": 5,
+		"Quantity": 2,
+		"Sku": "0400013136824",
+		"Gtin": "0400013136824"
+	}],
+	"Wearability": "",
+	"HasProposition65": true,
+	"RemoteWarehouse": "",
+	"Is3rdParty": false,
+	"IsSoldOut": false,
+	"IsFinalSale": false,
+	"IsBaby": false,
+	"IsPets": false,
+	"IsLiquid": false,
+	"IsBook": false,
+	"IsDenim": false,
+	"IsSunglassHut": false,
+	"IsArt": false,
+	"ShowSizeGuide": true,
+	"ItemSizeGuideRequest": {
+		"SizeTypeId": 380,
+		"Gender": "U",
+		"BrandId": 25,
+		"MacroCategoryId": 49,
+		"Dept": "mmrc_2205yxgl"
+	},
+	"Season": "P",
+	"SaleLine": "JSCOTT",
+	"SalesLineId": "68",
+	"IsArteria": false,
+	"Currency": "USD",
+	"MicroCategoryAttribute": {
+		"Url": {
+			"Path": "/us/men/mmrc_2205yxgl/shoponline/blazers_c",
+			"SeoFriendlyPathWithQueryString": "/us/men/shoponline/blazers_c?dept=mmrc_2205yxgl&gender=U&attributes=%7b%27ctgr%27%3a%5b%27gcc%27%5d%7d",
+			"SeoFriendlyPathWithHash": "/us/men/shoponline/blazers_c#/dept=mmrc_2205yxgl&gender=U&attributes=%7b%27ctgr%27%3a%5b%27gcc%27%5d%7d"
+		},
+		"Code": "gcc",
+		"SingleDescr": "Blazer",
+		"PluralDescr": "Blazers"
+	},
+	"MacroCategoryAttribute": {
+		"Url": {
+			"Path": "/us/men/mmrc_2205yxgl/shoponline/coats & jackets_mc",
+			"SeoFriendlyPath": "/us/men/shoponline/coats & jackets_mc",
+			"PathWithHash": "/us/men/mmrc_2205yxgl/shoponline/coats & jackets_mc#/dept=mmrc_2205yxgl&gender=U&attributes=%7b%27ctgr%27%3a%5b%27cpspll%27%5d%7d",
+			"SeoFriendlyPathWithQueryString": "/us/men/shoponline/coats & jackets_mc?dept=mmrc_2205yxgl&gender=U&attributes=%7b%27ctgr%27%3a%5b%27cpspll%27%5d%7d",
+			"SeoFriendlyPathWithHash": "/us/men/shoponline/coats & jackets_mc#/dept=mmrc_2205yxgl&gender=U&attributes=%7b%27ctgr%27%3a%5b%27cpspll%27%5d%7d",
+			"QueryString": "dept=mmrc_2205yxgl&gender=U&attributes=%7b%27ctgr%27%3a%5b%27cpspll%27%5d%7d"
+		},
+		"Code": "cpspll",
+		"SingleDescr": "Coats & Jackets",
+		"PluralDescr": "Coats & Jackets"
+	},
+	"BadgeItemPage": {
+		"InfoPriceLabel": "",
+		"IsActive": true,
+		"Description": "BADGE/LABEL RFTW WW US",
+		"PromotionLabel": "20% OFF until 05/08. Markdown applied directly in Shopping Bag.",
+		"Img": "https://aws-yoox-badgy-tool-prod-359585510514-distribution.s3-eu-west-1.amazonaws.com/tmp/f6442b9cda1db0475e3eeda51a07426a.png"
+	},
+	"Composition": {
+		"Name": "Composition",
+		"Value": "50% Silk, 50% Polyester"
+	},
+	"BreadcrumbsUrl": "/YOOX_US/Breadcrumbs/IndexItem?isoCode=US&brand=%7b%22Id%22%3a%2225%22%2c%22Name%22%3a%22DOLCE+%26+GABBANA%22%2c%22Url%22%3a%22%2fus%2fmen%2fshoponline%2fdolce+%26+gabbana_d%23%2fd%3d25%26dept%3dmmrc_2205yxgl%26gender%3dU%22%2c%22Rel%22%3a%22%2fus%2fmen%2fshoponline%2fdolce+%26+gabbana_d%23%2fd%3d25%26dept%3dmmrc_2205yxgl%26gender%3dU%22%2c%22Attributes%22%3a%7b%22dsgnrs%22%3a%5b%22DOLCE+%26+GABBANA%22%5d%7d%7d&macroCategory=%7b%22Value%22%3anull%2c%22Code%22%3a%22cpspll%22%2c%22SingleDescr%22%3a%22Coats+%26+Jackets%22%2c%22PluralDescr%22%3a%22Coats+%26+Jackets%22%7d&microCategory=%7b%22Value%22%3anull%2c%22Code%22%3a%22gcc%22%2c%22SingleDescr%22%3a%22Blazer%22%2c%22PluralDescr%22%3a%22Blazers%22%7d",
+	"ProjectCodes": ["STOCK"],
+	"PromoTags": ["prm_2205_RFTW", "prm_2205_TOPBRAND"],
+	"ClassSizeId": 380,
+	"Gender": "U",
+	"MarketPlaceItems": [],
+	"HasToRenderDesignArtInfo": false,
+	"IsOneSize": false,
+	"ErrorCode": 0
+}
