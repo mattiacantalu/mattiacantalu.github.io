@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<h1>//Profile.swiftify()</h1>
+<body style="background-color:#1F1F24;color:#ffffff;font-size:15px;">
+<xmp>
+import UIKit
+import Foundation
+import CoreLocation
+    
+struct Profile {
+    static let summary = "My name is Mattia Cantalù and I come from Italy.
+                          I attended the University of Modena \"E. Ferrari\", 
+                          where I conferred a bachelor degree in Computer Engineering.
+                          In 2011, I also studied at the University of Pisa, 
+                          where I certified my studies as Apple iOS Developer.
+                          I'm a Senior iOS developer at YOOX NET-A-PORTER Group, 
+                          the global Internet retailing partner for leading fashion and luxury brands.
+                          My expertise allows me to write clean code using functional programming, 
+                          clean architecture and SOLID principles.
+                          My daily activities follows the Agile methodology: sprints and ceremonies.
+                          As a freelancer iOS developer, I developed personal, enterprise and commercial applications
+                          for many companies in Italy.
+                          During my leisure time I love travel all over the world. 
+                          I've visited some cities in the world: my favourite is London.
+                          Passion for tech and Apple addicted. I love running everywhere and trekking into the wild.
+                          I speak Italian (native language) and English (professional use)."
+        
+    static let name = "Mattia Cantalu'"
+        
+    static let location = CLLocation(latitude: 44.4796, longitude: 11.0375)
+        
+    static let work = "Senior iOS Developer @ YOOX NET-A-PORTER GROUP"
+        
+    static let education = "Computer Engeneering @ University of Modena and Reggio Emilia"
+        
+    static let languages = ["native": "Italian", "professional": "English"]
+        
+    static let hobbies = ["technology", "apple", "nokia", "running", "trekking", "travel"]
+        
+    static let skills = ["swift", "objective-c", "mobile application", "iOS", "iOS development", "mobile devices", "macOS", "Xcode"]
+}
+    
+extension Profile {
+    static func twitter() {
+        URL(string: "https://www.twitter.com/mattiacantalu")?.open()
+    }
+    
+    static func linkedin() {
+        URL(string: "https://www.linkedin.com/in/mattiacantalu/")?.open()
+    }
+        
+    static func github() {
+        URL(string: "https://github.com/mattiacantalu")?.open()
+    }
+        
+    static func mail() {
+        URL(string: "mailto:immattia@icloud.com")?.open()
+    }
+}
+    
+private extension URL {
+    func open() {
+        UIApplication.shared.open(self)
+    }
+}
+</xmp>
+</p>
+</body>
+</html>
